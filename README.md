@@ -10,6 +10,31 @@ TechTicker 每日自動更新：
 - 0～100 `Downturn Readiness`
 - 歷史分數與事件證據
 
+## Web Dashboard
+
+GitHub Pages 網頁儀表板：
+
+**https://cheneddie.github.io/TechTicker/**
+
+頁面直接讀取 repository 的：
+
+- `data/latest.json`
+- `data/history/daily.csv`
+
+因此每日資料更新後，Dashboard 不需要獨立後端或手動改頁面。
+
+### GitHub Pages 第一次啟用
+
+若網站尚未啟用，只需要在 repository 做一次：
+
+1. `Settings`
+2. `Pages`
+3. `Build and deployment`
+4. `Source` 選擇 **GitHub Actions**
+5. 回到 `Actions` 執行 **Deploy TechTicker Pages**
+
+完成一次後，後續 `main` 或目前開發分支的頁面／資料更新會自動觸發部署。
+
 ## 六大事件
 
 1. 四大 CSP 下修 AI／資料中心 CapEx
@@ -19,9 +44,9 @@ TechTicker 每日自動更新：
 5. Samsung／SK hynix／Micron 從配額轉向降價搶單
 6. DRAM 新廠大量產出由 2028 提前至 2027
 
-## 查看結果
+## 查看原始結果
 
-- 最新儀表板：[`docs/DASHBOARD.md`](docs/DASHBOARD.md)
+- 最新 Markdown 儀表板：[`docs/DASHBOARD.md`](docs/DASHBOARD.md)
 - 最新 JSON：[`data/latest.json`](data/latest.json)
 - 分數歷史：[`data/history/daily.csv`](data/history/daily.csv)
 - 事件紀錄：[`data/events/events.jsonl`](data/events/events.jsonl)
@@ -52,3 +77,4 @@ SEC_USER_AGENT=Your Name your-email@example.com
 - 付費資料不繞過
 - 單一新聞不直接等於反轉
 - CLEAR / WATCH / TRIGGERED 分級
+- 網頁展示與資料產生分離，避免 UI 影響研究結果
