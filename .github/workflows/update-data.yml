@@ -23,6 +23,8 @@ jobs:
           python-version: "3.12"
       - name: Syntax check
         run: python -m py_compile scripts/update.py
+      - name: Unit tests
+        run: python -m unittest discover -s tests -p "test_*.py"
       - name: Update data
         env:
           SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
