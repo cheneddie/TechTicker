@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1220">
+  <meta name="description" content="TechTicker：PC 硬體價格週期與 2022 式下跌風險監控儀表板。">
+  <title>TechTicker｜硬體價格週期雷達</title>
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <div class="bg-grid" aria-hidden="true"></div>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="TechTicker 首頁">
+      <span class="brand-mark">T</span>
+      <span>
+        <strong>TechTicker</strong>
+        <small>Hardware Cycle Monitor</small>
+      </span>
+    </a>
+    <div class="top-actions">
+      <span class="live-dot"><i></i> AUTO UPDATE</span>
+      <a class="ghost-link" href="https://github.com/cheneddie/TechTicker" target="_blank" rel="noopener">GitHub ↗</a>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <div>
+        <p class="eyebrow">PC HARDWARE DOWNTURN RADAR</p>
+        <h1>硬體價格週期雷達</h1>
+        <p class="lede">追蹤 AI CapEx、Server DRAM 庫存、NAND 供需、記憶體廠商行為與新產能，判斷市場距離 2022–2023 式下跌週期還有多遠。</p>
+      </div>
+      <div class="asof-box">
+        <span>資料日期</span>
+        <strong id="asOf">載入中…</strong>
+        <button id="refreshBtn" type="button">重新整理</button>
+      </div>
+    </section>
+
+    <section class="overview-grid">
+      <article class="panel score-panel">
+        <div class="panel-head">
+          <div>
+            <p class="kicker">DOWNTURN READINESS</p>
+            <h2>下跌週期準備度</h2>
+          </div>
+          <span id="phaseBadge" class="phase-badge">讀取中</span>
+        </div>
+        <div class="score-body">
+          <div id="scoreRing" class="score-ring" style="--score:0">
+            <div class="score-inner">
+              <strong id="scoreValue">--</strong>
+              <span>/ 100</span>
+            </div>
+          </div>
+          <div class="score-copy">
+            <p id="scoreSummary">正在讀取最新資料。</p>
+            <div class="risk-scale" aria-label="風險分級">
+              <span>0</span><i></i><i></i><i></i><i></i><span>100</span>
+            </div>
+            <div class="risk-labels"><span>供給緊張</span><span>築頂</span><span>熊市確認</span></div>
+          </div>
+        </div>
+      </article>
+
+      <article class="panel mini-panel">
+        <p class="kicker">EVENT SIGNAL</p>
+        <h2>六大事件分數</h2>
+        <strong id="eventScore" class="big-number">--</strong>
+        <span class="unit">/ 100</span>
+        <p>事件先行指標。越高代表越多「需求降溫＋庫存增加＋供給追上」條件成立。</p>
+      </article>
+
+      <article class="panel mini-panel">
+        <p class="kicker">ACTIVE WATCHES</p>
+        <h2>目前警戒事件</h2>
+        <strong id="watchCount" class="big-number">--</strong>
+        <span class="unit">/ 6</span>
+        <p id="triggerCountText">等待事件資料。</p>
+      </article>
+    </section>
+
+    <section class="section-block">
+      <div class="section-title">
+        <div>
+          <p class="eyebrow">REVERSAL CONDITIONS</p>
+          <h2>六大反轉事件</h2>
+        </div>
+        <div class="legend">
+          <span><i class="dot clear"></i>CLEAR</span>
+          <span><i class="dot watch"></i>WATCH</span>
+          <span><i class="dot triggered"></i>TRIGGERED</span>
+        </div>
+      </div>
+      <div id="eventGrid" class="event-grid" aria-live="polite"></div>
+    </section>
+
+    <section class="section-block split-grid">
+      <article class="panel chart-panel">
+        <div class="panel-head">
+          <div>
+            <p class="kicker">CYCLE HISTORY</p>
+            <h2>下跌準備度趨勢</h2>
+          </div>
+          <span class="muted" id="historyCount">-- 筆</span>
+        </div>
+        <div id="historyChart" class="chart-wrap">
+          <div class="chart-empty">累積更多每日資料後，這裡會形成週期曲線。</div>
+        </div>
+      </article>
+
+      <article class="panel story-panel">
+        <p class="kicker">BASE CASE</p>
+        <h2>目前最可能故事線</h2>
+        <div class="story-flow">
+          <div><span>01</span><strong>消費端先弱</strong><small>PC／手機被高價記憶體壓抑</small></div>
+          <b>→</b>
+          <div><span>02</span><strong>NAND 先轉鬆</strong><small>供給成長追過需求</small></div>
+          <b>→</b>
+          <div><span>03</span><strong>GPU 溢價回落</strong><small>缺貨 premium 先消失</small></div>
+          <b>→</b>
+          <div><span>04</span><strong>DRAM 最後反轉</strong><small>需 AI 降溫＋產能釋放</small></div>
+        </div>
+        <p class="story-note">這是研究框架的基準故事，不是保證預測；六大事件一旦轉為 TRIGGERED，故事線會跟著重新評估。</p>
+      </article>
+    </section>
+
+    <section class="section-block">
+      <div class="section-title">
+        <div>
+          <p class="eyebrow">EVIDENCE</p>
+          <h2>最新證據來源</h2>
+        </div>
+      </div>
+      <div id="evidenceList" class="evidence-list"></div>
+    </section>
+
+    <section class="method-note">
+      <strong>如何解讀：</strong>
+      <span>0–29＝供給仍緊／尚未反轉；30–49＝過熱築頂；50–69＝多項反轉條件成立；70–84＝下跌週期高風險；85–100＝接近全面供過於求。分數是規則式研究指標，不是投資報酬機率。</span>
+    </section>
+  </main>
+
+  <footer>
+    <span>TechTicker · cheneddie/TechTicker</span>
+    <span id="footerStatus">Loading data…</span>
+  </footer>
+
+  <script src="./assets/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-09-04",
+  "bootstrap_verified": true,
+  "scores": {
+    "downturn_readiness": 25.0,
+    "phase": "過熱但尚未反轉",
+    "event_score": 25.0,
+    "price_confirmation_score": null,
+    "capex_confirmation_score": null
+  },
+  "events": [
+    {"id":"csp_capex_guidance_down","label_zh":"四大 CSP 下修 AI／資料中心 CapEx 指引","weight":20,"state":"CLEAR","multiplier":0.0,"note_zh":"TrendForce 2026-08-03 仍估 2026 CSP CapEx 高增，尚未出現全面下修。"},
+    {"id":"ai_server_forecast_down","label_zh":"AI Server 出貨預測首次明顯下修","weight":15,"state":"CLEAR","multiplier":0.0,"note_zh":"2026 AI server 出貨成長預測仍被上修至近 31%。"},
+    {"id":"csp_dram_inventory_buildup","label_zh":"CSP Server DRAM 庫存持續累積","weight":15,"state":"WATCH","multiplier":0.5,"note_zh":"2026 Q2 因 server CPU 短缺拖慢組裝，美國 CSP DRAM 庫存逐步累積；仍需觀察 CPU 瓶頸解除後是否持續。"},
+    {"id":"nand_oversupply_price_down","label_zh":"NAND 供需轉正／合約價 QoQ 轉跌","weight":20,"state":"WATCH","multiplier":0.5,"note_zh":"TrendForce 預期 2027 下半年 NAND 供需轉鬆。"},
+    {"id":"memory_vendor_discounting","label_zh":"Samsung／SK hynix／Micron 從配額轉向降價搶單","weight":15,"state":"CLEAR","multiplier":0.0,"note_zh":"目前尚未看到三大廠全面降價搶單。"},
+    {"id":"dram_fab_output_earlier","label_zh":"DRAM 新廠大量產出時程由 2028 提前至 2027","weight":15,"state":"WATCH","multiplier":0.5,"note_zh":"2027 起有新產能 phase-in，但大量 bit output 是否提前仍待確認。"}
+  ],
+  "evidence_sources": [
+    {"title":"TrendForce: AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026","url":"https://www.trendforce.com/presscenter/news/20260803-13161.html"},
+    {"title":"TrendForce: Server DRAM inventory and 3Q26 pricing outlook","url":"https://www.trendforce.com/presscenter/news/20260709-13140.html"},
+    {"title":"TrendForce: NAND Supply Growth to Outpace Demand in 2027","url":"https://www.trendforce.com/presscenter/news/20260721-13148.html"},
+    {"title":"TrendForce: Diverging Memory Market Outlook in 2027","url":"https://www.trendforce.com/presscenter/news/20260730-13158.html"}
+  ]
+}

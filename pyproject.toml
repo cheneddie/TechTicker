@@ -1,0 +1,9 @@
+[project]
+name = "techticker"
+version = "0.1.0"
+description = "PC hardware cycle tracker and 2022-style downturn early-warning monitor"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "lookback_days": 120,
+  "max_news_items_per_query": 30,
+  "fred_series": {
+    "semiconductor_ppi": {"series_id": "PCU334413334413", "label_zh": "半導體與相關元件 PPI", "category": "semiconductor"},
+    "storage_device_ppi": {"series_id": "PCU334112334112", "label_zh": "電腦儲存裝置 PPI", "category": "storage"},
+    "computer_ppi": {"series_id": "PCU334111334111", "label_zh": "電子電腦製造 PPI", "category": "computer"}
+  },
+  "sec_companies": {
+    "MSFT": {"name": "Microsoft", "cik": "0000789019"},
+    "AMZN": {"name": "Amazon", "cik": "0001018724"},
+    "GOOGL": {"name": "Alphabet", "cik": "0001652044"},
+    "META": {"name": "Meta", "cik": "0001326801"}
+  },
+  "events": [
+    {"id":"csp_capex_guidance_down","label_zh":"四大 CSP 下修 AI／資料中心 CapEx 指引","weight":20,"queries":["(Microsoft OR Amazon OR Alphabet OR Meta) AI capex guidance cut lower slow delay data center","(Microsoft OR AWS OR Google OR Meta) capital expenditure guidance reduce AI infrastructure"],"trigger_terms":["cut capex","capex cut","lower capex","reduce capex","capex guidance down","slow spending","delay data center","defer data center","scale back capex","spending slowdown"],"watch_terms":["capex growth slows","higher comparison base","free cash flow negative","capital intensity","spending discipline"],"counter_terms":["capex raised","raise capex","record capex","capex surge","increase capex","AI investment increase","spending increase"]},
+    {"id":"ai_server_forecast_down","label_zh":"AI Server 出貨預測首次明顯下修","weight":15,"queries":["site:trendforce.com AI server shipments forecast revised down lower 2026 2027","AI server shipment forecast cut revised lower TrendForce"],"trigger_terms":["forecast lowered","forecast cut","revised down","revised lower","shipment decline","growth forecast lowered","downgraded forecast"],"watch_terms":["growth slows","slower growth","high base","procurement delay"],"counter_terms":["forecast raised","revised upward","raised to","shipment growth","accelerate shipments"]},
+    {"id":"csp_dram_inventory_buildup","label_zh":"CSP Server DRAM 庫存持續累積","weight":15,"queries":["site:trendforce.com CSP server DRAM inventory buildup inventory levels","server DRAM inventory CSP buildup CPU shortage TrendForce"],"trigger_terms":["inventory buildup","inventory build-up","inventory accumulation","inventories continue to rise","excess inventory","high inventory","inventory correction"],"watch_terms":["gradual buildup","gradual build-up","inventories increase","inventory levels rise","inventory has increased"],"counter_terms":["lean inventory","inventory under control","inventory digestion","inventory normalized"]},
+    {"id":"nand_oversupply_price_down","label_zh":"NAND 供需轉正／合約價 QoQ 轉跌","weight":20,"queries":["site:trendforce.com NAND supply growth outpace demand oversupply price decline contract price","site:trendforce.com NAND sufficiency ratio positive downward price 2027"],"trigger_terms":["supply growth to outpace demand","oversupply","sufficiency ratio positive","contract prices decline","prices decline","price correction","downward price","downward pressure on prices","supply-demand balance turn positive"],"watch_terms":["easing supply constraints","supply tightness diminish","looser supply","new capacity online","weak consumer demand"],"counter_terms":["supply deficit","undersupplied","price rise","prices rise","contract prices rise","shortage","tight supply"]},
+    {"id":"memory_vendor_discounting","label_zh":"Samsung／SK hynix／Micron 從配額轉向降價搶單","weight":15,"queries":["(Samsung OR SK hynix OR Micron) DRAM discount price cut allocation orders memory","(Samsung OR SK hynix OR Micron) memory suppliers lower quotation discount contract price"],"trigger_terms":["discount","price cut","lower quotation","cut prices","lower contract price","compete for orders","aggressive pricing","price concessions"],"watch_terms":["allocation easing","more supply available","buyer leverage","negotiation pressure"],"counter_terms":["raise prices","price hike","allocation","supply shortage","seller's market","sellers market","tight supply"]},
+    {"id":"dram_fab_output_earlier","label_zh":"DRAM 新廠大量產出時程由 2028 提前至 2027","weight":15,"queries":["site:trendforce.com DRAM new fab mass production 2027 2028 capacity phase-in","Samsung SK hynix Micron DRAM fab mass production 2027 capacity earlier"],"trigger_terms":["mass production in 2027","mass production by 2027","output in 2027","capacity online in 2027","production brought forward","accelerated mass production","earlier than 2028"],"watch_terms":["phase-in capacity from 2027","trial production 2027","equipment installation","accelerating new fab","new capacity from 2027"],"counter_terms":["significant output delayed","large-scale output 2028","mass production 2028","qualification delays","construction delays"]}
+  ]
+}
