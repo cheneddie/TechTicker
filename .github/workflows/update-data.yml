@@ -2,6 +2,7 @@ name: Update TechTicker data
 
 on:
   workflow_dispatch:
+  pull_request:
   schedule:
     - cron: "15 1 * * *" # 09:15 Asia/Taipei
 
@@ -9,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: techticker-data-update
+  group: techticker-data-update-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -30,6 +31,7 @@ jobs:
           SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
         run: python scripts/update.py
       - name: Commit changed data
+        if: github.event_name != 'pull_request'
         run: |
           if git diff --quiet -- data docs/DASHBOARD.md; then
             echo "No data changes."
