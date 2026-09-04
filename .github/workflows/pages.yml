@@ -25,6 +25,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    outputs:
+      pages_status: ${{ steps.pages.outcome }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -63,9 +65,17 @@ jobs:
           path: _site
 
       - name: Configure Pages
+        id: pages
+        continue-on-error: true
         uses: actions/configure-pages@v5
 
+      - name: Pages enablement notice
+        if: steps.pages.outcome != 'success'
+        run: |
+          echo "::warning::GitHub Pages is not enabled yet. Open Settings > Pages and choose GitHub Actions once; then rerun this workflow."
+
   deploy:
+    if: needs.build.outputs.pages_status == 'success'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
