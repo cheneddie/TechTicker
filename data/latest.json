@@ -1,26 +1,221 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-04",
-  "bootstrap_verified": true,
+  "as_of": "2026-09-05",
   "scores": {
-    "downturn_readiness": 25.0,
-    "phase": "過熱但尚未反轉",
-    "event_score": 25.0,
+    "downturn_readiness": 17.5,
+    "phase": "主升／供給吃緊",
+    "event_score": 17.5,
     "price_confirmation_score": null,
     "capex_confirmation_score": null
   },
   "events": [
-    {"id":"csp_capex_guidance_down","label_zh":"四大 CSP 下修 AI／資料中心 CapEx 指引","weight":20,"state":"CLEAR","multiplier":0.0,"note_zh":"TrendForce 2026-08-03 仍估 2026 CSP CapEx 高增，尚未出現全面下修。"},
-    {"id":"ai_server_forecast_down","label_zh":"AI Server 出貨預測首次明顯下修","weight":15,"state":"CLEAR","multiplier":0.0,"note_zh":"2026 AI server 出貨成長預測仍被上修至近 31%。"},
-    {"id":"csp_dram_inventory_buildup","label_zh":"CSP Server DRAM 庫存持續累積","weight":15,"state":"WATCH","multiplier":0.5,"note_zh":"2026 Q2 因 server CPU 短缺拖慢組裝，美國 CSP DRAM 庫存逐步累積；仍需觀察 CPU 瓶頸解除後是否持續。"},
-    {"id":"nand_oversupply_price_down","label_zh":"NAND 供需轉正／合約價 QoQ 轉跌","weight":20,"state":"WATCH","multiplier":0.5,"note_zh":"TrendForce 預期 2027 下半年 NAND 供需轉鬆。"},
-    {"id":"memory_vendor_discounting","label_zh":"Samsung／SK hynix／Micron 從配額轉向降價搶單","weight":15,"state":"CLEAR","multiplier":0.0,"note_zh":"目前尚未看到三大廠全面降價搶單。"},
-    {"id":"dram_fab_output_earlier","label_zh":"DRAM 新廠大量產出時程由 2028 提前至 2027","weight":15,"state":"WATCH","multiplier":0.5,"note_zh":"2027 起有新產能 phase-in，但大量 bit output 是否提前仍待確認。"}
+    {
+      "id": "csp_capex_guidance_down",
+      "label_zh": "四大 CSP 下修 AI／資料中心 CapEx 指引",
+      "weight": 20,
+      "state": "CLEAR",
+      "multiplier": 0.0,
+      "signal_score": 0.0,
+      "evidence": [],
+      "counter_evidence": [
+        {
+          "title": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVBQQnREaHBhVnByYVlfMGZjWVFzOG1TMnFiT0V4cEpObHFId0s0UHdLdV9UMzVVUnowdG5XcU90cUFLdFBTN08xZUtMcHZNcDJvZjllMVFfemdxQlN3eGlBRVZ0eFZieS1Ka3VVTkhYY3o4ZndEM2JvQjZZYjEwM2VHSGRMUUFqTHZKQ045SjJ1cGNNdE9oZHlReFZQajl0MnkyMUVGOF9JVWN4SzdKMVdjQldabVpFLXJmQktwb1I0Z1dKUC16VUNqcw?oc=5",
+          "description": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again TradingKey",
+          "published": "2026-07-30T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "capex raised"
+          ],
+          "signal_score": -1.0
+        },
+        {
+          "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
+          "description": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+          "published": "2026-07-22T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "raise capex"
+          ],
+          "signal_score": -1.0
+        }
+      ],
+      "items_scanned": 58
+    },
+    {
+      "id": "ai_server_forecast_down",
+      "label_zh": "AI Server 出貨預測首次明顯下修",
+      "weight": 15,
+      "state": "CLEAR",
+      "multiplier": 0.0,
+      "signal_score": 0.0,
+      "evidence": [],
+      "counter_evidence": [
+        {
+          "title": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce - TrendForce",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWlRsRkZ1eDQ4X0tmN2ZmQTZlYWNuQkc3MlFmTm9MNU0xU2R2dkVDYWlYNzRLdzdQdjI2YlFLOFVXS1JLS211UFpYVDhQVi1iUUFPMTRZNW5IOF9yNnlIVG5xYXdVRkFVY0IwTjFkejk?oc=5",
+          "description": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce TrendForce",
+          "published": "2026-08-03T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "forecast raised",
+            "raised to"
+          ],
+          "signal_score": -2.0
+        }
+      ],
+      "items_scanned": 52
+    },
+    {
+      "id": "csp_dram_inventory_buildup",
+      "label_zh": "CSP Server DRAM 庫存持續累積",
+      "weight": 15,
+      "state": "UNKNOWN",
+      "multiplier": 0.0,
+      "signal_score": 0.0,
+      "evidence": [],
+      "counter_evidence": [],
+      "items_scanned": 8
+    },
+    {
+      "id": "nand_oversupply_price_down",
+      "label_zh": "NAND 供需轉正／合約價 QoQ 轉跌",
+      "weight": 20,
+      "state": "WATCH",
+      "multiplier": 0.5,
+      "signal_score": 2.8,
+      "evidence": [
+        {
+          "title": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce - TrendForce",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wcm12TzQ2WUlSdkRKM2lMUW85c1hhWFpjVGF0ekRmOC1XQWR4MmRlRk12ZWVvdE8yc2d2X01xWlJXX3Q2c2g4V2llZWgwdWk4YzJNajFURHRrVHRMUUQxRklON0Y1UGxGUXljRWF2MGQ?oc=5",
+          "description": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce TrendForce",
+          "published": "2026-07-21T07:00:00+00:00",
+          "matched_trigger": [
+            "supply growth to outpace demand"
+          ],
+          "matched_watch": [
+            "easing supply constraints"
+          ],
+          "matched_counter": [],
+          "signal_score": 2.8
+        }
+      ],
+      "counter_evidence": [],
+      "items_scanned": 4
+    },
+    {
+      "id": "memory_vendor_discounting",
+      "label_zh": "Samsung／SK hynix／Micron 從配額轉向降價搶單",
+      "weight": 15,
+      "state": "WATCH",
+      "multiplier": 0.5,
+      "signal_score": 2.0,
+      "evidence": [
+        {
+          "title": "CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report - Wccftech",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWExUcjRFckphNERJYVdNdEdfWThrWWtKUFVpdll0Y1RRVVVwSlN6WEpOT0xNb2pQdE9fdHpSbTd4am52NEFyTzVObEZZUWh3emJDWGZDblkwWEpGVlhCLWgtX3ZaakxfVS1kMjFvcThNRUZGZG1kUmJyeVJERFNLTXZaMzgzbWZUdExNeXVnWWdLeVlhcmxORktnTXl4M0J5MzJiU1NObVVtOWRZTGdNQVVwYVhOazBRenBzdml2OFhQU1lpckHSAcsBQVVfeXFMUHAtMC1LdjloWjBiV2p0b2VGeXFCck1NdnlTTEZZZjlLNUNRNk9MQzhaM2dSaDZSSl9TaWlMcklxSkZYS1VMR01USGplWEpOYmdlVHlmQi04b1FVQWNvcEZKM2dtNmg3MlZrLXZtOVBhalV5YjVQZmFVYWRBU0I5RHd6TVZMSUZuXzVwYVNxLTNCdFpUTkFUWVJhbjlabVFyLVZvbk5GZEVQbDZuNnlEYlVQa2NscW5MY096aHdiYkYxSjZueFNCTGNfd28?oc=5",
+          "description": "CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report Wccftech",
+          "published": "2026-08-05T07:00:00+00:00",
+          "matched_trigger": [
+            "price cut"
+          ],
+          "matched_watch": [],
+          "matched_counter": [],
+          "signal_score": 2.0
+        }
+      ],
+      "counter_evidence": [
+        {
+          "title": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases - Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmdhQm9kQ3JNU2hHTlVBaWFUZkdibFg4VmlIUC1lem5KMlIyWTFrZERjdi1LOVc2SW12X2o4M3lZTDRRWEF6alh6ek5vVl9mSDdUNzFjNEMwY3BPTU4yNnlBYmZ1dTlRVG5rdnVjd2doTEhpOXZ0UDVwU1BQV0tFOEctdVIxcVVnR29RQU1uYS1RdXhiZGd5ZklvT2szUlh6ZXZGQzJRTDdIUUV5N0ExVHNGZm4?oc=5",
+          "description": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases Tom's Hardware",
+          "published": "2026-07-03T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "allocation"
+          ],
+          "signal_score": -1.0
+        },
+        {
+          "title": "AI-driven HBM demand continues to distort global memory allocation and server supply - Astute Group",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXZVTXhHcDlQTkd0Ym5sUmZZRm16ZklESkRFYzFXT3U2ampIWW4wUHM2bmluRnh6Z1BzNlRYSV9sT0h6d3dTVFpMS3VFMGFOSjBnWXJIaW5OLUhCVDIyNE1laE1JeFhqUWRQdXFNSVlWUDVVZ1gxT3p2OTVEa2xFWDFXZVRDMFFzZ29ENjJ2YWJDNXRTQ2ZSeFFXc3NMSDRtdWhpNVNSQkl0WFpFY1NSLWZVdzQ3VVBRd05ya1MxSmwtWjUzZVpSTUp0RjYzWEx2?oc=5",
+          "description": "AI-driven HBM demand continues to distort global memory allocation and server supply Astute Group",
+          "published": "2026-06-15T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "allocation"
+          ],
+          "signal_score": -1.0
+        }
+      ],
+      "items_scanned": 55
+    },
+    {
+      "id": "dram_fab_output_earlier",
+      "label_zh": "DRAM 新廠大量產出時程由 2028 提前至 2027",
+      "weight": 15,
+      "state": "UNKNOWN",
+      "multiplier": 0.0,
+      "signal_score": 0.0,
+      "evidence": [],
+      "counter_evidence": [],
+      "items_scanned": 60
+    }
   ],
-  "evidence_sources": [
-    {"title":"TrendForce: AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026","url":"https://www.trendforce.com/presscenter/news/20260803-13161.html"},
-    {"title":"TrendForce: Server DRAM inventory and 3Q26 pricing outlook","url":"https://www.trendforce.com/presscenter/news/20260709-13140.html"},
-    {"title":"TrendForce: NAND Supply Growth to Outpace Demand in 2027","url":"https://www.trendforce.com/presscenter/news/20260721-13148.html"},
-    {"title":"TrendForce: Diverging Memory Market Outlook in 2027","url":"https://www.trendforce.com/presscenter/news/20260730-13158.html"}
-  ]
+  "fred": {
+    "semiconductor_ppi": {
+      "available": false,
+      "series_id": "PCU334413334413",
+      "label_zh": "半導體與相關元件 PPI",
+      "category": "semiconductor"
+    },
+    "storage_device_ppi": {
+      "available": false,
+      "series_id": "PCU334112334112",
+      "label_zh": "電腦儲存裝置 PPI",
+      "category": "storage"
+    },
+    "computer_ppi": {
+      "available": false,
+      "series_id": "PCU334111334111",
+      "label_zh": "電子電腦製造 PPI",
+      "category": "computer"
+    }
+  },
+  "capex": {
+    "MSFT": {
+      "available": false,
+      "error": "GET failed: https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json: HTTP Error 403: Forbidden",
+      "name": "Microsoft",
+      "cik": "0000789019"
+    },
+    "AMZN": {
+      "available": false,
+      "error": "GET failed: https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json: HTTP Error 403: Forbidden",
+      "name": "Amazon",
+      "cik": "0001018724"
+    },
+    "GOOGL": {
+      "available": false,
+      "error": "GET failed: https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json: HTTP Error 403: Forbidden",
+      "name": "Alphabet",
+      "cik": "0001652044"
+    },
+    "META": {
+      "available": false,
+      "error": "GET failed: https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json: HTTP Error 403: Forbidden",
+      "name": "Meta",
+      "cik": "0001326801"
+    }
+  },
+  "capex_confirmation": {
+    "available": false,
+    "score": null
+  }
 }
