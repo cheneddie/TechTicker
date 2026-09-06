@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-05",
+  "as_of": "2026-09-06",
   "scores": {
     "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
@@ -43,7 +43,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 58
+      "items_scanned": 59
     },
     {
       "id": "ai_server_forecast_down",
@@ -68,7 +68,7 @@
           "signal_score": -2.0
         }
       ],
-      "items_scanned": 52
+      "items_scanned": 53
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -79,7 +79,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 8
+      "items_scanned": 7
     },
     {
       "id": "nand_oversupply_price_down",
@@ -105,7 +105,7 @@
         }
       ],
       "counter_evidence": [],
-      "items_scanned": 4
+      "items_scanned": 5
     },
     {
       "id": "memory_vendor_discounting",
@@ -142,9 +142,9 @@
           "signal_score": -1.0
         },
         {
-          "title": "AI-driven HBM demand continues to distort global memory allocation and server supply - Astute Group",
+          "title": "AI-driven HBM demand continues to distort global memory allocation and server supply - astutegroup.com",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXZVTXhHcDlQTkd0Ym5sUmZZRm16ZklESkRFYzFXT3U2ampIWW4wUHM2bmluRnh6Z1BzNlRYSV9sT0h6d3dTVFpMS3VFMGFOSjBnWXJIaW5OLUhCVDIyNE1laE1JeFhqUWRQdXFNSVlWUDVVZ1gxT3p2OTVEa2xFWDFXZVRDMFFzZ29ENjJ2YWJDNXRTQ2ZSeFFXc3NMSDRtdWhpNVNSQkl0WFpFY1NSLWZVdzQ3VVBRd05ya1MxSmwtWjUzZVpSTUp0RjYzWEx2?oc=5",
-          "description": "AI-driven HBM demand continues to distort global memory allocation and server supply Astute Group",
+          "description": "AI-driven HBM demand continues to distort global memory allocation and server supply astutegroup.com",
           "published": "2026-06-15T07:00:00+00:00",
           "matched_trigger": [],
           "matched_watch": [],
@@ -154,7 +154,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 55
+      "items_scanned": 54
     },
     {
       "id": "dram_fab_output_earlier",
@@ -165,7 +165,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 60
+      "items_scanned": 59
     }
   ],
   "fred": {
