@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-08",
+  "as_of": "2026-09-09",
   "scores": {
     "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
@@ -19,9 +19,9 @@
       "evidence": [],
       "counter_evidence": [
         {
-          "title": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - TradingKey",
+          "title": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - tradingkey.com",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVBQQnREaHBhVnByYVlfMGZjWVFzOG1TMnFiT0V4cEpObHFId0s0UHdLdV9UMzVVUnowdG5XcU90cUFLdFBTN08xZUtMcHZNcDJvZjllMVFfemdxQlN3eGlBRVZ0eFZieS1Ka3VVTkhYY3o4ZndEM2JvQjZZYjEwM2VHSGRMUUFqTHZKQ045SjJ1cGNNdE9oZHlReFZQajl0MnkyMUVGOF9JVWN4SzdKMVdjQldabVpFLXJmQktwb1I0Z1dKUC16VUNqcw?oc=5",
-          "description": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again TradingKey",
+          "description": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again tradingkey.com",
           "published": "2026-07-30T07:00:00+00:00",
           "matched_trigger": [],
           "matched_watch": [],
@@ -55,9 +55,22 @@
       "evidence": [],
       "counter_evidence": [
         {
-          "title": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce - trendforce.com",
+          "title": "Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce - TrendForce",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbTNIMXR6STBhZFlLX2EtYUhGWW5DdU9LOXFQWlhFVlVxOU0zZzJuOTZaRDRUbkhIMC10UkFxY1Q2RXU0QzNHQ3ZvSW1hczlFTGJfVF96SU9KdXd0MF9ERG9mZ01mSU5UTUdLcS1OQzE?oc=5",
+          "description": "Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce TrendForce",
+          "published": "2026-09-08T05:58:44+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "forecast raised",
+            "raised to"
+          ],
+          "signal_score": -2.0
+        },
+        {
+          "title": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce - TrendForce",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWlRsRkZ1eDQ4X0tmN2ZmQTZlYWNuQkc3MlFmTm9MNU0xU2R2dkVDYWlYNzRLdzdQdjI2YlFLOFVXS1JLS211UFpYVDhQVi1iUUFPMTRZNW5IOF9yNnlIVG5xYXdVRkFVY0IwTjFkejk?oc=5",
-          "description": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce trendforce.com",
+          "description": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce TrendForce",
           "published": "2026-08-03T07:00:00+00:00",
           "matched_trigger": [],
           "matched_watch": [],
@@ -66,6 +79,18 @@
             "raised to"
           ],
           "signal_score": -2.0
+        },
+        {
+          "title": "CSP Capital Spending Surges 90%: TrendForce Raises AI Server Shipment Growth Forecast to Nearly 31% - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aY0IxUk9RLWNlX3pqTHdRRkhnbWE2NzNvM2VZZG50aFA1VHFGWmVNeHJFeHRmWVdPTGduakxoa1pvbDBNOXIzc1drUzNnX3BQWl8xZGcwZV9Cd3hVc0h2dHc4STlBZTlYYTAyREFWbUYteC04UHc?oc=5",
+          "description": "CSP Capital Spending Surges 90%: TrendForce Raises AI Server Shipment Growth Forecast to Nearly 31% finance.biggo.com",
+          "published": "2026-08-03T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "shipment growth"
+          ],
+          "signal_score": -1.0
         }
       ],
       "items_scanned": 56
@@ -90,9 +115,9 @@
       "signal_score": 2.8,
       "evidence": [
         {
-          "title": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce - trendforce.com",
+          "title": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce - TrendForce",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wcm12TzQ2WUlSdkRKM2lMUW85c1hhWFpjVGF0ekRmOC1XQWR4MmRlRk12ZWVvdE8yc2d2X01xWlJXX3Q2c2g4V2llZWgwdWk4YzJNajFURHRrVHRMUUQxRklON0Y1UGxGUXljRWF2MGQ?oc=5",
-          "description": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce trendforce.com",
+          "description": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce TrendForce",
           "published": "2026-07-21T07:00:00+00:00",
           "matched_trigger": [
             "supply growth to outpace demand"
@@ -105,7 +130,7 @@
         }
       ],
       "counter_evidence": [],
-      "items_scanned": 5
+      "items_scanned": 4
     },
     {
       "id": "memory_vendor_discounting",
@@ -116,9 +141,9 @@
       "signal_score": 4.0,
       "evidence": [
         {
-          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36Kr",
+          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36 Kr",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeXpyT20wN1RJUjh3RE5NMEttX1Z5bUNIQlpaT2FTNnY5ek9udGhDdThyOTFnVnRrQThVa1VQYXI1NFNoN1pTY2JHZTE2N1dhZllN?oc=5",
-          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power 36Kr",
+          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power 36 Kr",
           "published": "2026-08-05T07:00:00+00:00",
           "matched_trigger": [
             "price cut"
@@ -154,9 +179,9 @@
           "signal_score": -1.0
         },
         {
-          "title": "AI-driven HBM demand continues to distort global memory allocation and server supply - astutegroup.com",
+          "title": "AI-driven HBM demand continues to distort global memory allocation and server supply - Astute Group",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXZVTXhHcDlQTkd0Ym5sUmZZRm16ZklESkRFYzFXT3U2ampIWW4wUHM2bmluRnh6Z1BzNlRYSV9sT0h6d3dTVFpMS3VFMGFOSjBnWXJIaW5OLUhCVDIyNE1laE1JeFhqUWRQdXFNSVlWUDVVZ1gxT3p2OTVEa2xFWDFXZVRDMFFzZ29ENjJ2YWJDNXRTQ2ZSeFFXc3NMSDRtdWhpNVNSQkl0WFpFY1NSLWZVdzQ3VVBRd05ya1MxSmwtWjUzZVpSTUp0RjYzWEx2?oc=5",
-          "description": "AI-driven HBM demand continues to distort global memory allocation and server supply astutegroup.com",
+          "description": "AI-driven HBM demand continues to distort global memory allocation and server supply Astute Group",
           "published": "2026-06-15T07:00:00+00:00",
           "matched_trigger": [],
           "matched_watch": [],
@@ -166,7 +191,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 54
+      "items_scanned": 55
     },
     {
       "id": "dram_fab_output_earlier",
@@ -177,7 +202,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 59
+      "items_scanned": 58
     }
   ],
   "fred": {
