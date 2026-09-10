@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-09",
+  "as_of": "2026-09-10",
   "scores": {
     "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
@@ -93,7 +93,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 56
+      "items_scanned": 52
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -141,9 +141,9 @@
       "signal_score": 4.0,
       "evidence": [
         {
-          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36 Kr",
+          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - eu.36kr.com",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeXpyT20wN1RJUjh3RE5NMEttX1Z5bUNIQlpaT2FTNnY5ek9udGhDdThyOTFnVnRrQThVa1VQYXI1NFNoN1pTY2JHZTE2N1dhZllN?oc=5",
-          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power 36 Kr",
+          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power eu.36kr.com",
           "published": "2026-08-05T07:00:00+00:00",
           "matched_trigger": [
             "price cut"
