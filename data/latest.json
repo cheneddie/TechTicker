@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-10",
+  "as_of": "2026-09-11",
   "scores": {
-    "downturn_readiness": 17.5,
-    "phase": "主升／供給吃緊",
-    "event_score": 17.5,
+    "downturn_readiness": 25.0,
+    "phase": "過熱但尚未反轉",
+    "event_score": 25.0,
     "price_confirmation_score": null,
     "capex_confirmation_score": null
   },
@@ -19,9 +19,9 @@
       "evidence": [],
       "counter_evidence": [
         {
-          "title": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - tradingkey.com",
+          "title": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVBQQnREaHBhVnByYVlfMGZjWVFzOG1TMnFiT0V4cEpObHFId0s0UHdLdV9UMzVVUnowdG5XcU90cUFLdFBTN08xZUtMcHZNcDJvZjllMVFfemdxQlN3eGlBRVZ0eFZieS1Ka3VVTkhYY3o4ZndEM2JvQjZZYjEwM2VHSGRMUUFqTHZKQ045SjJ1cGNNdE9oZHlReFZQajl0MnkyMUVGOF9JVWN4SzdKMVdjQldabVpFLXJmQktwb1I0Z1dKUC16VUNqcw?oc=5",
-          "description": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again tradingkey.com",
+          "description": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again TradingKey",
           "published": "2026-07-30T07:00:00+00:00",
           "matched_trigger": [],
           "matched_watch": [],
@@ -34,7 +34,7 @@
           "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
           "description": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
-          "published": "2026-07-21T07:00:00+00:00",
+          "published": "2026-07-22T07:00:00+00:00",
           "matched_trigger": [],
           "matched_watch": [],
           "matched_counter": [
@@ -54,19 +54,6 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [
-        {
-          "title": "Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce - TrendForce",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbTNIMXR6STBhZFlLX2EtYUhGWW5DdU9LOXFQWlhFVlVxOU0zZzJuOTZaRDRUbkhIMC10UkFxY1Q2RXU0QzNHQ3ZvSW1hczlFTGJfVF96SU9KdXd0MF9ERG9mZ01mSU5UTUdLcS1OQzE?oc=5",
-          "description": "Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce TrendForce",
-          "published": "2026-09-08T05:58:44+00:00",
-          "matched_trigger": [],
-          "matched_watch": [],
-          "matched_counter": [
-            "forecast raised",
-            "raised to"
-          ],
-          "signal_score": -2.0
-        },
         {
           "title": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce - TrendForce",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWlRsRkZ1eDQ4X0tmN2ZmQTZlYWNuQkc3MlFmTm9MNU0xU2R2dkVDYWlYNzRLdzdQdjI2YlFLOFVXS1JLS211UFpYVDhQVi1iUUFPMTRZNW5IOF9yNnlIVG5xYXdVRkFVY0IwTjFkejk?oc=5",
@@ -93,7 +80,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 52
+      "items_scanned": 51
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -141,9 +128,9 @@
       "signal_score": 4.0,
       "evidence": [
         {
-          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - eu.36kr.com",
+          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36 Kr",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeXpyT20wN1RJUjh3RE5NMEttX1Z5bUNIQlpaT2FTNnY5ek9udGhDdThyOTFnVnRrQThVa1VQYXI1NFNoN1pTY2JHZTE2N1dhZllN?oc=5",
-          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power eu.36kr.com",
+          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power 36 Kr",
           "published": "2026-08-05T07:00:00+00:00",
           "matched_trigger": [
             "price cut"
@@ -197,10 +184,23 @@
       "id": "dram_fab_output_earlier",
       "label_zh": "DRAM 新廠大量產出時程由 2028 提前至 2027",
       "weight": 15,
-      "state": "UNKNOWN",
-      "multiplier": 0.0,
-      "signal_score": 0.0,
-      "evidence": [],
+      "state": "WATCH",
+      "multiplier": 0.5,
+      "signal_score": 2.0,
+      "evidence": [
+        {
+          "title": "[News] TSMC’s Taichung 1.4nm P1, P2 Fabs Could Begin Mass Production in 2027, Ahead of 2028 Plan - TrendForce",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOUNMQVljR3VnakJqanNtcjBjY0h0d1NFZGpFUmN2cEpvUm1LcHF6UjVEanZRbFlGNXpVNU51RkxoN0Fla2VsVm1wSmZ1VmxqbU9MZGQ4WnZuallyZVNWYkhDTXYwNUxpbFZjZDNIVEZmelJmOTBRUTR5WVFxSGdZOE9iaUlSTk9pU202b01tLWRpaF9BLXZZSUtDLVJ4VGU2bGJnY29FemtpZVlkSFYxU1lNb0J0OXl0Rjk3cGZkejUtSG9BZ3R0NUxNd1JwcVFK?oc=5",
+          "description": "[News] TSMC’s Taichung 1.4nm P1, P2 Fabs Could Begin Mass Production in 2027, Ahead of 2028 Plan TrendForce",
+          "published": "2026-09-10T04:18:03+00:00",
+          "matched_trigger": [
+            "mass production in 2027"
+          ],
+          "matched_watch": [],
+          "matched_counter": [],
+          "signal_score": 2.0
+        }
+      ],
       "counter_evidence": [],
       "items_scanned": 58
     }
