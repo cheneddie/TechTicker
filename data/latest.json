@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-11",
+  "as_of": "2026-09-12",
   "scores": {
-    "downturn_readiness": 25.0,
-    "phase": "過熱但尚未反轉",
-    "event_score": 25.0,
+    "downturn_readiness": 17.5,
+    "phase": "主升／供給吃緊",
+    "event_score": 17.5,
     "price_confirmation_score": null,
     "capex_confirmation_score": null
   },
@@ -19,9 +19,9 @@
       "evidence": [],
       "counter_evidence": [
         {
-          "title": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - TradingKey",
+          "title": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - tradingkey.com",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVBQQnREaHBhVnByYVlfMGZjWVFzOG1TMnFiT0V4cEpObHFId0s0UHdLdV9UMzVVUnowdG5XcU90cUFLdFBTN08xZUtMcHZNcDJvZjllMVFfemdxQlN3eGlBRVZ0eFZieS1Ka3VVTkhYY3o4ZndEM2JvQjZZYjEwM2VHSGRMUUFqTHZKQ045SjJ1cGNNdE9oZHlReFZQajl0MnkyMUVGOF9JVWN4SzdKMVdjQldabVpFLXJmQktwb1I0Z1dKUC16VUNqcw?oc=5",
-          "description": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again TradingKey",
+          "description": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again tradingkey.com",
           "published": "2026-07-30T07:00:00+00:00",
           "matched_trigger": [],
           "matched_watch": [],
@@ -80,7 +80,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 51
+      "items_scanned": 54
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -91,7 +91,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 4
+      "items_scanned": 3
     },
     {
       "id": "nand_oversupply_price_down",
@@ -184,23 +184,10 @@
       "id": "dram_fab_output_earlier",
       "label_zh": "DRAM 新廠大量產出時程由 2028 提前至 2027",
       "weight": 15,
-      "state": "WATCH",
-      "multiplier": 0.5,
-      "signal_score": 2.0,
-      "evidence": [
-        {
-          "title": "[News] TSMC’s Taichung 1.4nm P1, P2 Fabs Could Begin Mass Production in 2027, Ahead of 2028 Plan - TrendForce",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOUNMQVljR3VnakJqanNtcjBjY0h0d1NFZGpFUmN2cEpvUm1LcHF6UjVEanZRbFlGNXpVNU51RkxoN0Fla2VsVm1wSmZ1VmxqbU9MZGQ4WnZuallyZVNWYkhDTXYwNUxpbFZjZDNIVEZmelJmOTBRUTR5WVFxSGdZOE9iaUlSTk9pU202b01tLWRpaF9BLXZZSUtDLVJ4VGU2bGJnY29FemtpZVlkSFYxU1lNb0J0OXl0Rjk3cGZkejUtSG9BZ3R0NUxNd1JwcVFK?oc=5",
-          "description": "[News] TSMC’s Taichung 1.4nm P1, P2 Fabs Could Begin Mass Production in 2027, Ahead of 2028 Plan TrendForce",
-          "published": "2026-09-10T04:18:03+00:00",
-          "matched_trigger": [
-            "mass production in 2027"
-          ],
-          "matched_watch": [],
-          "matched_counter": [],
-          "signal_score": 2.0
-        }
-      ],
+      "state": "UNKNOWN",
+      "multiplier": 0.0,
+      "signal_score": 0.0,
+      "evidence": [],
       "counter_evidence": [],
       "items_scanned": 58
     }
