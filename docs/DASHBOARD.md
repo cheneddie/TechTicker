@@ -1,6 +1,6 @@
 # TechTicker｜硬體價格週期監控
 
-> 最後更新：**2026-09-12**
+> 最後更新：**2026-09-13**
 
 ## Downturn Readiness：**17.5/100**
 
@@ -12,7 +12,7 @@
 
 | 事件 | 狀態 | 權重 | 最近證據 |
 |---|---:|---:|---|
-| 四大 CSP 下修 AI／資料中心 CapEx 指引 | 🟢 CLEAR | 20% | [Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - tradingkey.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVBQQnREaHBhVnByYVlfMGZjWVFzOG1TMnFiT0V4cEpObHFId0s0UHdLdV9UMzVVUnowdG5XcU90cUFLdFBTN08xZUtMcHZNcDJvZjllMVFfemdxQlN3eGlBRVZ0eFZieS1Ka3VVTkhYY3o4ZndEM2JvQjZZYjEwM2VHSGRMUUFqTHZKQ045SjJ1cGNNdE9oZHlReFZQajl0MnkyMUVGOF9JVWN4SzdKMVdjQldabVpFLXJmQktwb1I0Z1dKUC16VUNqcw?oc=5) |
+| 四大 CSP 下修 AI／資料中心 CapEx 指引 | 🟢 CLEAR | 20% | [Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - TradingKey](https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVBQQnREaHBhVnByYVlfMGZjWVFzOG1TMnFiT0V4cEpObHFId0s0UHdLdV9UMzVVUnowdG5XcU90cUFLdFBTN08xZUtMcHZNcDJvZjllMVFfemdxQlN3eGlBRVZ0eFZieS1Ka3VVTkhYY3o4ZndEM2JvQjZZYjEwM2VHSGRMUUFqTHZKQ045SjJ1cGNNdE9oZHlReFZQajl0MnkyMUVGOF9JVWN4SzdKMVdjQldabVpFLXJmQktwb1I0Z1dKUC16VUNqcw?oc=5) |
 | AI Server 出貨預測首次明顯下修 | 🟢 CLEAR | 15% | [AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWlRsRkZ1eDQ4X0tmN2ZmQTZlYWNuQkc3MlFmTm9MNU0xU2R2dkVDYWlYNzRLdzdQdjI2YlFLOFVXS1JLS211UFpYVDhQVi1iUUFPMTRZNW5IOF9yNnlIVG5xYXdVRkFVY0IwTjFkejk?oc=5) |
 | CSP Server DRAM 庫存持續累積 | ⚪ UNKNOWN | 15% | — |
 | NAND 供需轉正／合約價 QoQ 轉跌 | 🟠 WATCH | 20% | [NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE8wcm12TzQ2WUlSdkRKM2lMUW85c1hhWFpjVGF0ekRmOC1XQWR4MmRlRk12ZWVvdE8yc2d2X01xWlJXX3Q2c2g4V2llZWgwdWk4YzJNajFURHRrVHRMUUQxRklON0Y1UGxGUXljRWF2MGQ?oc=5) |
