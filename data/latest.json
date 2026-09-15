@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-14",
+  "as_of": "2026-09-15",
   "scores": {
     "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
@@ -22,7 +22,7 @@
           "title": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVBQQnREaHBhVnByYVlfMGZjWVFzOG1TMnFiT0V4cEpObHFId0s0UHdLdV9UMzVVUnowdG5XcU90cUFLdFBTN08xZUtMcHZNcDJvZjllMVFfemdxQlN3eGlBRVZ0eFZieS1Ka3VVTkhYY3o4ZndEM2JvQjZZYjEwM2VHSGRMUUFqTHZKQ045SjJ1cGNNdE9oZHlReFZQajl0MnkyMUVGOF9JVWN4SzdKMVdjQldabVpFLXJmQktwb1I0Z1dKUC16VUNqcw?oc=5",
           "description": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again TradingKey",
-          "published": "2026-07-30T07:00:00+00:00",
+          "published": "2026-09-13T20:22:18+00:00",
           "matched_trigger": [],
           "matched_watch": [],
           "matched_counter": [
@@ -43,7 +43,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 59
+      "items_scanned": 57
     },
     {
       "id": "ai_server_forecast_down",
@@ -80,7 +80,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 54
+      "items_scanned": 55
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -125,20 +125,8 @@
       "weight": 15,
       "state": "WATCH",
       "multiplier": 0.5,
-      "signal_score": 4.0,
+      "signal_score": 2.0,
       "evidence": [
-        {
-          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36 Kr",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeXpyT20wN1RJUjh3RE5NMEttX1Z5bUNIQlpaT2FTNnY5ek9udGhDdThyOTFnVnRrQThVa1VQYXI1NFNoN1pTY2JHZTE2N1dhZllN?oc=5",
-          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power 36 Kr",
-          "published": "2026-08-05T07:00:00+00:00",
-          "matched_trigger": [
-            "price cut"
-          ],
-          "matched_watch": [],
-          "matched_counter": [],
-          "signal_score": 2.0
-        },
         {
           "title": "CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report - Wccftech",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWExUcjRFckphNERJYVdNdEdfWThrWWtKUFVpdll0Y1RRVVVwSlN6WEpOT0xNb2pQdE9fdHpSbTd4am52NEFyTzVObEZZUWh3emJDWGZDblkwWEpGVlhCLWgtX3ZaakxfVS1kMjFvcThNRUZGZG1kUmJyeVJERFNLTXZaMzgzbWZUdExNeXVnWWdLeVlhcmxORktnTXl4M0J5MzJiU1NObVVtOWRZTGdNQVVwYVhOazBRenBzdml2OFhQU1lpckHSAcsBQVVfeXFMUHAtMC1LdjloWjBiV2p0b2VGeXFCck1NdnlTTEZZZjlLNUNRNk9MQzhaM2dSaDZSSl9TaWlMcklxSkZYS1VMR01USGplWEpOYmdlVHlmQi04b1FVQWNvcEZKM2dtNmg3MlZrLXZtOVBhalV5YjVQZmFVYWRBU0I5RHd6TVZMSUZuXzVwYVNxLTNCdFpUTkFUWVJhbjlabVFyLVZvbk5GZEVQbDZuNnlEYlVQa2NscW5MY096aHdiYkYxSjZueFNCTGNfd28?oc=5",
