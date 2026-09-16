@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-15",
+  "as_of": "2026-09-16",
   "scores": {
     "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
@@ -19,18 +19,6 @@
       "evidence": [],
       "counter_evidence": [
         {
-          "title": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVBQQnREaHBhVnByYVlfMGZjWVFzOG1TMnFiT0V4cEpObHFId0s0UHdLdV9UMzVVUnowdG5XcU90cUFLdFBTN08xZUtMcHZNcDJvZjllMVFfemdxQlN3eGlBRVZ0eFZieS1Ka3VVTkhYY3o4ZndEM2JvQjZZYjEwM2VHSGRMUUFqTHZKQ045SjJ1cGNNdE9oZHlReFZQajl0MnkyMUVGOF9JVWN4SzdKMVdjQldabVpFLXJmQktwb1I0Z1dKUC16VUNqcw?oc=5",
-          "description": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again TradingKey",
-          "published": "2026-09-13T20:22:18+00:00",
-          "matched_trigger": [],
-          "matched_watch": [],
-          "matched_counter": [
-            "capex raised"
-          ],
-          "signal_score": -1.0
-        },
-        {
           "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
           "description": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
@@ -43,7 +31,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 57
+      "items_scanned": 55
     },
     {
       "id": "ai_server_forecast_down",
@@ -66,21 +54,9 @@
             "raised to"
           ],
           "signal_score": -2.0
-        },
-        {
-          "title": "CSP Capital Spending Surges 90%: TrendForce Raises AI Server Shipment Growth Forecast to Nearly 31% - finance.biggo.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aY0IxUk9RLWNlX3pqTHdRRkhnbWE2NzNvM2VZZG50aFA1VHFGWmVNeHJFeHRmWVdPTGduakxoa1pvbDBNOXIzc1drUzNnX3BQWl8xZGcwZV9Cd3hVc0h2dHc4STlBZTlYYTAyREFWbUYteC04UHc?oc=5",
-          "description": "CSP Capital Spending Surges 90%: TrendForce Raises AI Server Shipment Growth Forecast to Nearly 31% finance.biggo.com",
-          "published": "2026-08-03T07:00:00+00:00",
-          "matched_trigger": [],
-          "matched_watch": [],
-          "matched_counter": [
-            "shipment growth"
-          ],
-          "signal_score": -1.0
         }
       ],
-      "items_scanned": 55
+      "items_scanned": 53
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -91,7 +67,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 2
+      "items_scanned": 3
     },
     {
       "id": "nand_oversupply_price_down",
@@ -142,6 +118,18 @@
       ],
       "counter_evidence": [
         {
+          "title": "HBM spot prices soar to five times long-term contract levels: HBM4 yield pressures and long-term contract capacity allocations squeeze spot supply - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWV8xWEItUWV3VHFQTVB1aFFaS1FqWjNMeEhRZXF4WTZrX1VzQTFhOFpldDFGVWVhdzNBTWhDcjZyenYwTExiS1hFdGhQWnhzTzZzclZHUFJEb19HSmJJWU1IQnJpTUx4VzFuQ2l4VmdlYUhacVVseEw2c3hCWlVjUmF5QlBTLUxnNmpGcFlWWi1oZU1ac1JCQ19Taw?oc=5",
+          "description": "HBM spot prices soar to five times long-term contract levels: HBM4 yield pressures and long-term contract capacity allocations squeeze spot supply Moomoo",
+          "published": "2026-08-31T14:02:55+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "allocation"
+          ],
+          "signal_score": -1.0
+        },
+        {
           "title": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases - Tom's Hardware",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmdhQm9kQ3JNU2hHTlVBaWFUZkdibFg4VmlIUC1lem5KMlIyWTFrZERjdi1LOVc2SW12X2o4M3lZTDRRWEF6alh6ek5vVl9mSDdUNzFjNEMwY3BPTU4yNnlBYmZ1dTlRVG5rdnVjd2doTEhpOXZ0UDVwU1BQV0tFOEctdVIxcVVnR29RQU1uYS1RdXhiZGd5ZklvT2szUlh6ZXZGQzJRTDdIUUV5N0ExVHNGZm4?oc=5",
           "description": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases Tom's Hardware",
@@ -166,7 +154,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 55
+      "items_scanned": 56
     },
     {
       "id": "dram_fab_output_earlier",
