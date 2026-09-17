@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-16",
+  "as_of": "2026-09-17",
   "scores": {
     "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
@@ -31,7 +31,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 55
+      "items_scanned": 57
     },
     {
       "id": "ai_server_forecast_down",
