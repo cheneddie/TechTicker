@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-17",
+  "as_of": "2026-09-18",
   "scores": {
-    "downturn_readiness": 17.5,
+    "downturn_readiness": 10.0,
     "phase": "主升／供給吃緊",
-    "event_score": 17.5,
+    "event_score": 10.0,
     "price_confirmation_score": null,
     "capex_confirmation_score": null
   },
@@ -31,7 +31,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 57
+      "items_scanned": 58
     },
     {
       "id": "ai_server_forecast_down",
@@ -99,23 +99,10 @@
       "id": "memory_vendor_discounting",
       "label_zh": "Samsung／SK hynix／Micron 從配額轉向降價搶單",
       "weight": 15,
-      "state": "WATCH",
-      "multiplier": 0.5,
-      "signal_score": 2.0,
-      "evidence": [
-        {
-          "title": "CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report - Wccftech",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWExUcjRFckphNERJYVdNdEdfWThrWWtKUFVpdll0Y1RRVVVwSlN6WEpOT0xNb2pQdE9fdHpSbTd4am52NEFyTzVObEZZUWh3emJDWGZDblkwWEpGVlhCLWgtX3ZaakxfVS1kMjFvcThNRUZGZG1kUmJyeVJERFNLTXZaMzgzbWZUdExNeXVnWWdLeVlhcmxORktnTXl4M0J5MzJiU1NObVVtOWRZTGdNQVVwYVhOazBRenBzdml2OFhQU1lpckHSAcsBQVVfeXFMUHAtMC1LdjloWjBiV2p0b2VGeXFCck1NdnlTTEZZZjlLNUNRNk9MQzhaM2dSaDZSSl9TaWlMcklxSkZYS1VMR01USGplWEpOYmdlVHlmQi04b1FVQWNvcEZKM2dtNmg3MlZrLXZtOVBhalV5YjVQZmFVYWRBU0I5RHd6TVZMSUZuXzVwYVNxLTNCdFpUTkFUWVJhbjlabVFyLVZvbk5GZEVQbDZuNnlEYlVQa2NscW5MY096aHdiYkYxSjZueFNCTGNfd28?oc=5",
-          "description": "CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report Wccftech",
-          "published": "2026-08-05T07:00:00+00:00",
-          "matched_trigger": [
-            "price cut"
-          ],
-          "matched_watch": [],
-          "matched_counter": [],
-          "signal_score": 2.0
-        }
-      ],
+      "state": "CLEAR",
+      "multiplier": 0.0,
+      "signal_score": 0.0,
+      "evidence": [],
       "counter_evidence": [
         {
           "title": "HBM spot prices soar to five times long-term contract levels: HBM4 yield pressures and long-term contract capacity allocations squeeze spot supply - Moomoo",
@@ -154,7 +141,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 56
+      "items_scanned": 55
     },
     {
       "id": "dram_fab_output_earlier",
