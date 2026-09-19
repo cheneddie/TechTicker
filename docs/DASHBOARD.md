@@ -1,8 +1,8 @@
 # TechTicker｜硬體價格週期監控
 
-> 最後更新：**2026-09-18**
+> 最後更新：**2026-09-19**
 
-## Downturn Readiness：**10.0/100**
+## Downturn Readiness：**17.5/100**
 
 目前階段：**主升／供給吃緊**
 
@@ -13,10 +13,10 @@
 | 事件 | 狀態 | 權重 | 最近證據 |
 |---|---:|---:|---|
 | 四大 CSP 下修 AI／資料中心 CapEx 指引 | 🟢 CLEAR | 20% | [Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5) |
-| AI Server 出貨預測首次明顯下修 | 🟢 CLEAR | 15% | [AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWlRsRkZ1eDQ4X0tmN2ZmQTZlYWNuQkc3MlFmTm9MNU0xU2R2dkVDYWlYNzRLdzdQdjI2YlFLOFVXS1JLS211UFpYVDhQVi1iUUFPMTRZNW5IOF9yNnlIVG5xYXdVRkFVY0IwTjFkejk?oc=5) |
+| AI Server 出貨預測首次明顯下修 | 🟢 CLEAR | 15% | [Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbTNIMXR6STBhZFlLX2EtYUhGWW5DdU9LOXFQWlhFVlVxOU0zZzJuOTZaRDRUbkhIMC10UkFxY1Q2RXU0QzNHQ3ZvSW1hczlFTGJfVF96SU9KdXd0MF9ERG9mZ01mSU5UTUdLcS1OQzE?oc=5) |
 | CSP Server DRAM 庫存持續累積 | ⚪ UNKNOWN | 15% | — |
 | NAND 供需轉正／合約價 QoQ 轉跌 | 🟠 WATCH | 20% | [NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE8wcm12TzQ2WUlSdkRKM2lMUW85c1hhWFpjVGF0ekRmOC1XQWR4MmRlRk12ZWVvdE8yc2d2X01xWlJXX3Q2c2g4V2llZWgwdWk4YzJNajFURHRrVHRMUUQxRklON0Y1UGxGUXljRWF2MGQ?oc=5) |
-| Samsung／SK hynix／Micron 從配額轉向降價搶單 | 🟢 CLEAR | 15% | [HBM spot prices soar to five times long-term contract levels: HBM4 yield pressures and long-term contract capacity allocations squeeze spot supply - Moomoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWV8xWEItUWV3VHFQTVB1aFFaS1FqWjNMeEhRZXF4WTZrX1VzQTFhOFpldDFGVWVhdzNBTWhDcjZyenYwTExiS1hFdGhQWnhzTzZzclZHUFJEb19HSmJJWU1IQnJpTUx4VzFuQ2l4VmdlYUhacVVseEw2c3hCWlVjUmF5QlBTLUxnNmpGcFlWWi1oZU1ac1JCQ19Taw?oc=5) |
+| Samsung／SK hynix／Micron 從配額轉向降價搶單 | 🟠 WATCH | 15% | [CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report - Wccftech](https://news.google.com/rss/articles/CBMixgFBVV95cUxQWExUcjRFckphNERJYVdNdEdfWThrWWtKUFVpdll0Y1RRVVVwSlN6WEpOT0xNb2pQdE9fdHpSbTd4am52NEFyTzVObEZZUWh3emJDWGZDblkwWEpGVlhCLWgtX3ZaakxfVS1kMjFvcThNRUZGZG1kUmJyeVJERFNLTXZaMzgzbWZUdExNeXVnWWdLeVlhcmxORktnTXl4M0J5MzJiU1NObVVtOWRZTGdNQVVwYVhOazBRenBzdml2OFhQU1lpckHSAcsBQVVfeXFMUHAtMC1LdjloWjBiV2p0b2VGeXFCck1NdnlTTEZZZjlLNUNRNk9MQzhaM2dSaDZSSl9TaWlMcklxSkZYS1VMR01USGplWEpOYmdlVHlmQi04b1FVQWNvcEZKM2dtNmg3MlZrLXZtOVBhalV5YjVQZmFVYWRBU0I5RHd6TVZMSUZuXzVwYVNxLTNCdFpUTkFUWVJhbjlabVFyLVZvbk5GZEVQbDZuNnlEYlVQa2NscW5MY096aHdiYkYxSjZueFNCTGNfd28?oc=5) |
 | DRAM 新廠大量產出時程由 2028 提前至 2027 | ⚪ UNKNOWN | 15% | — |
 
 ### 公開價格代理

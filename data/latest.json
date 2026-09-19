@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-19",
   "scores": {
-    "downturn_readiness": 10.0,
+    "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
-    "event_score": 10.0,
+    "event_score": 17.5,
     "price_confirmation_score": null,
     "capex_confirmation_score": null
   },
@@ -31,7 +31,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 58
+      "items_scanned": 59
     },
     {
       "id": "ai_server_forecast_down",
@@ -42,6 +42,19 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [
+        {
+          "title": "Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce - TrendForce",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbTNIMXR6STBhZFlLX2EtYUhGWW5DdU9LOXFQWlhFVlVxOU0zZzJuOTZaRDRUbkhIMC10UkFxY1Q2RXU0QzNHQ3ZvSW1hczlFTGJfVF96SU9KdXd0MF9ERG9mZ01mSU5UTUdLcS1OQzE?oc=5",
+          "description": "Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce TrendForce",
+          "published": "2026-09-08T05:58:44+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "forecast raised",
+            "raised to"
+          ],
+          "signal_score": -2.0
+        },
         {
           "title": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce - TrendForce",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWlRsRkZ1eDQ4X0tmN2ZmQTZlYWNuQkc3MlFmTm9MNU0xU2R2dkVDYWlYNzRLdzdQdjI2YlFLOFVXS1JLS211UFpYVDhQVi1iUUFPMTRZNW5IOF9yNnlIVG5xYXdVRkFVY0IwTjFkejk?oc=5",
@@ -67,7 +80,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 3
+      "items_scanned": 2
     },
     {
       "id": "nand_oversupply_price_down",
@@ -99,23 +112,24 @@
       "id": "memory_vendor_discounting",
       "label_zh": "Samsung／SK hynix／Micron 從配額轉向降價搶單",
       "weight": 15,
-      "state": "CLEAR",
-      "multiplier": 0.0,
-      "signal_score": 0.0,
-      "evidence": [],
-      "counter_evidence": [
+      "state": "WATCH",
+      "multiplier": 0.5,
+      "signal_score": 2.0,
+      "evidence": [
         {
-          "title": "HBM spot prices soar to five times long-term contract levels: HBM4 yield pressures and long-term contract capacity allocations squeeze spot supply - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWV8xWEItUWV3VHFQTVB1aFFaS1FqWjNMeEhRZXF4WTZrX1VzQTFhOFpldDFGVWVhdzNBTWhDcjZyenYwTExiS1hFdGhQWnhzTzZzclZHUFJEb19HSmJJWU1IQnJpTUx4VzFuQ2l4VmdlYUhacVVseEw2c3hCWlVjUmF5QlBTLUxnNmpGcFlWWi1oZU1ac1JCQ19Taw?oc=5",
-          "description": "HBM spot prices soar to five times long-term contract levels: HBM4 yield pressures and long-term contract capacity allocations squeeze spot supply Moomoo",
-          "published": "2026-08-31T14:02:55+00:00",
-          "matched_trigger": [],
-          "matched_watch": [],
-          "matched_counter": [
-            "allocation"
+          "title": "CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report - Wccftech",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWExUcjRFckphNERJYVdNdEdfWThrWWtKUFVpdll0Y1RRVVVwSlN6WEpOT0xNb2pQdE9fdHpSbTd4am52NEFyTzVObEZZUWh3emJDWGZDblkwWEpGVlhCLWgtX3ZaakxfVS1kMjFvcThNRUZGZG1kUmJyeVJERFNLTXZaMzgzbWZUdExNeXVnWWdLeVlhcmxORktnTXl4M0J5MzJiU1NObVVtOWRZTGdNQVVwYVhOazBRenBzdml2OFhQU1lpckHSAcsBQVVfeXFMUHAtMC1LdjloWjBiV2p0b2VGeXFCck1NdnlTTEZZZjlLNUNRNk9MQzhaM2dSaDZSSl9TaWlMcklxSkZYS1VMR01USGplWEpOYmdlVHlmQi04b1FVQWNvcEZKM2dtNmg3MlZrLXZtOVBhalV5YjVQZmFVYWRBU0I5RHd6TVZMSUZuXzVwYVNxLTNCdFpUTkFUWVJhbjlabVFyLVZvbk5GZEVQbDZuNnlEYlVQa2NscW5MY096aHdiYkYxSjZueFNCTGNfd28?oc=5",
+          "description": "CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report Wccftech",
+          "published": "2026-08-05T07:00:00+00:00",
+          "matched_trigger": [
+            "price cut"
           ],
-          "signal_score": -1.0
-        },
+          "matched_watch": [],
+          "matched_counter": [],
+          "signal_score": 2.0
+        }
+      ],
+      "counter_evidence": [
         {
           "title": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases - Tom's Hardware",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmdhQm9kQ3JNU2hHTlVBaWFUZkdibFg4VmlIUC1lem5KMlIyWTFrZERjdi1LOVc2SW12X2o4M3lZTDRRWEF6alh6ek5vVl9mSDdUNzFjNEMwY3BPTU4yNnlBYmZ1dTlRVG5rdnVjd2doTEhpOXZ0UDVwU1BQV0tFOEctdVIxcVVnR29RQU1uYS1RdXhiZGd5ZklvT2szUlh6ZXZGQzJRTDdIUUV5N0ExVHNGZm4?oc=5",
@@ -129,9 +143,9 @@
           "signal_score": -1.0
         },
         {
-          "title": "AI-driven HBM demand continues to distort global memory allocation and server supply - Astute Group",
+          "title": "AI-driven HBM demand continues to distort global memory allocation and server supply - astutegroup.com",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXZVTXhHcDlQTkd0Ym5sUmZZRm16ZklESkRFYzFXT3U2ampIWW4wUHM2bmluRnh6Z1BzNlRYSV9sT0h6d3dTVFpMS3VFMGFOSjBnWXJIaW5OLUhCVDIyNE1laE1JeFhqUWRQdXFNSVlWUDVVZ1gxT3p2OTVEa2xFWDFXZVRDMFFzZ29ENjJ2YWJDNXRTQ2ZSeFFXc3NMSDRtdWhpNVNSQkl0WFpFY1NSLWZVdzQ3VVBRd05ya1MxSmwtWjUzZVpSTUp0RjYzWEx2?oc=5",
-          "description": "AI-driven HBM demand continues to distort global memory allocation and server supply Astute Group",
+          "description": "AI-driven HBM demand continues to distort global memory allocation and server supply astutegroup.com",
           "published": "2026-06-15T07:00:00+00:00",
           "matched_trigger": [],
           "matched_watch": [],
@@ -141,7 +155,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 55
+      "items_scanned": 54
     },
     {
       "id": "dram_fab_output_earlier",
