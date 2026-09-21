@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-20",
+  "as_of": "2026-09-21",
   "scores": {
     "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
@@ -93,7 +93,7 @@
         }
       ],
       "counter_evidence": [],
-      "items_scanned": 6
+      "items_scanned": 5
     },
     {
       "id": "memory_vendor_discounting",
@@ -142,7 +142,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 56
+      "items_scanned": 55
     },
     {
       "id": "dram_fab_output_earlier",
