@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-23",
+  "as_of": "2026-09-24",
   "scores": {
     "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
@@ -31,7 +31,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 59
+      "items_scanned": 60
     },
     {
       "id": "ai_server_forecast_down",
@@ -67,7 +67,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 4
+      "items_scanned": 3
     },
     {
       "id": "nand_oversupply_price_down",
@@ -130,18 +130,6 @@
           "signal_score": -1.0
         },
         {
-          "title": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases - Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmdhQm9kQ3JNU2hHTlVBaWFUZkdibFg4VmlIUC1lem5KMlIyWTFrZERjdi1LOVc2SW12X2o4M3lZTDRRWEF6alh6ek5vVl9mSDdUNzFjNEMwY3BPTU4yNnlBYmZ1dTlRVG5rdnVjd2doTEhpOXZ0UDVwU1BQV0tFOEctdVIxcVVnR29RQU1uYS1RdXhiZGd5ZklvT2szUlh6ZXZGQzJRTDdIUUV5N0ExVHNGZm4?oc=5",
-          "description": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases Tom's Hardware",
-          "published": "2026-07-03T07:00:00+00:00",
-          "matched_trigger": [],
-          "matched_watch": [],
-          "matched_counter": [
-            "allocation"
-          ],
-          "signal_score": -1.0
-        },
-        {
           "title": "AI-driven HBM demand continues to distort global memory allocation and server supply - Astute Group",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXZVTXhHcDlQTkd0Ym5sUmZZRm16ZklESkRFYzFXT3U2ampIWW4wUHM2bmluRnh6Z1BzNlRYSV9sT0h6d3dTVFpMS3VFMGFOSjBnWXJIaW5OLUhCVDIyNE1laE1JeFhqUWRQdXFNSVlWUDVVZ1gxT3p2OTVEa2xFWDFXZVRDMFFzZ29ENjJ2YWJDNXRTQ2ZSeFFXc3NMSDRtdWhpNVNSQkl0WFpFY1NSLWZVdzQ3VVBRd05ya1MxSmwtWjUzZVpSTUp0RjYzWEx2?oc=5",
           "description": "AI-driven HBM demand continues to distort global memory allocation and server supply Astute Group",
@@ -154,7 +142,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 55
+      "items_scanned": 54
     },
     {
       "id": "dram_fab_output_earlier",
