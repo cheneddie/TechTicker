@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-25",
+  "as_of": "2026-09-26",
   "scores": {
     "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
@@ -31,7 +31,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 59
+      "items_scanned": 60
     },
     {
       "id": "ai_server_forecast_down",
@@ -43,9 +43,9 @@
       "evidence": [],
       "counter_evidence": [
         {
-          "title": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce - TrendForce",
+          "title": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce - trendforce.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWlRsRkZ1eDQ4X0tmN2ZmQTZlYWNuQkc3MlFmTm9MNU0xU2R2dkVDYWlYNzRLdzdQdjI2YlFLOFVXS1JLS211UFpYVDhQVi1iUUFPMTRZNW5IOF9yNnlIVG5xYXdVRkFVY0IwTjFkejk?oc=5",
-          "description": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce TrendForce",
+          "description": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce trendforce.com",
           "published": "2026-08-03T07:00:00+00:00",
           "matched_trigger": [],
           "matched_watch": [],
@@ -78,9 +78,9 @@
       "signal_score": 2.8,
       "evidence": [
         {
-          "title": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce - TrendForce",
+          "title": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce - trendforce.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wcm12TzQ2WUlSdkRKM2lMUW85c1hhWFpjVGF0ekRmOC1XQWR4MmRlRk12ZWVvdE8yc2d2X01xWlJXX3Q2c2g4V2llZWgwdWk4YzJNajFURHRrVHRMUUQxRklON0Y1UGxGUXljRWF2MGQ?oc=5",
-          "description": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce TrendForce",
+          "description": "NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce trendforce.com",
           "published": "2026-07-21T07:00:00+00:00",
           "matched_trigger": [
             "supply growth to outpace demand"
@@ -93,7 +93,7 @@
         }
       ],
       "counter_evidence": [],
-      "items_scanned": 5
+      "items_scanned": 6
     },
     {
       "id": "memory_vendor_discounting",
@@ -154,7 +154,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 55
+      "items_scanned": 54
     },
     {
       "id": "dram_fab_output_earlier",
