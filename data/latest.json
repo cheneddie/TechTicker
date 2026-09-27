@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-26",
+  "as_of": "2026-09-27",
   "scores": {
     "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
@@ -39,8 +39,21 @@
       "weight": 15,
       "state": "CLEAR",
       "multiplier": 0.0,
-      "signal_score": 0.0,
-      "evidence": [],
+      "signal_score": 0.8,
+      "evidence": [
+        {
+          "title": "AI Server Demand Continues to Support Memory Prices in 3Q26, but Gains Moderate as Consumer Demand Weakens and High Base Effects Take Hold, Says TrendForce - trendforce.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44dnNMV2hzQW5DVUw5MkRuVTBNTWNiOTRoaDNjMER2MWh1OHhSZEtoTGN6bmlYX2lJSkhBdjZiS0lENWF6TE5WWW1NWFJwYzl4MlNEejVIRWM0NHprak05XzRVTllZcWxXQ2M0b2xKWHg?oc=5",
+          "description": "AI Server Demand Continues to Support Memory Prices in 3Q26, but Gains Moderate as Consumer Demand Weakens and High Base Effects Take Hold, Says TrendForce trendforce.com",
+          "published": "2026-07-03T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [
+            "high base"
+          ],
+          "matched_counter": [],
+          "signal_score": 0.8
+        }
+      ],
       "counter_evidence": [
         {
           "title": "AI Server Shipments Forecast Raised to Nearly 31% YoY in 2026 as 90% Surge in CSP CapEx Fuels Infrastructure Expansion, Says TrendForce - trendforce.com",
@@ -67,7 +80,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 3
+      "items_scanned": 4
     },
     {
       "id": "nand_oversupply_price_down",
@@ -154,7 +167,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 54
+      "items_scanned": 55
     },
     {
       "id": "dram_fab_output_earlier",
