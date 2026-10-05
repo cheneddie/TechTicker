@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-10-04",
+  "as_of": "2026-10-05",
   "scores": {
     "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
@@ -69,7 +69,7 @@
           "signal_score": -2.0
         }
       ],
-      "items_scanned": 51
+      "items_scanned": 52
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -80,7 +80,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 4
+      "items_scanned": 3
     },
     {
       "id": "nand_oversupply_price_down",
@@ -117,9 +117,9 @@
       "signal_score": 4.0,
       "evidence": [
         {
-          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36 Kr",
+          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36Kr",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeXpyT20wN1RJUjh3RE5NMEttX1Z5bUNIQlpaT2FTNnY5ek9udGhDdThyOTFnVnRrQThVa1VQYXI1NFNoN1pTY2JHZTE2N1dhZllN?oc=5",
-          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power 36 Kr",
+          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power 36Kr",
           "published": "2026-08-05T07:00:00+00:00",
           "matched_trigger": [
             "price cut"
@@ -155,9 +155,9 @@
           "signal_score": -1.0
         },
         {
-          "title": "AI-driven HBM demand continues to distort global memory allocation and server supply - astutegroup.com",
+          "title": "AI-driven HBM demand continues to distort global memory allocation and server supply - Astute Group",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXZVTXhHcDlQTkd0Ym5sUmZZRm16ZklESkRFYzFXT3U2ampIWW4wUHM2bmluRnh6Z1BzNlRYSV9sT0h6d3dTVFpMS3VFMGFOSjBnWXJIaW5OLUhCVDIyNE1laE1JeFhqUWRQdXFNSVlWUDVVZ1gxT3p2OTVEa2xFWDFXZVRDMFFzZ29ENjJ2YWJDNXRTQ2ZSeFFXc3NMSDRtdWhpNVNSQkl0WFpFY1NSLWZVdzQ3VVBRd05ya1MxSmwtWjUzZVpSTUp0RjYzWEx2?oc=5",
-          "description": "AI-driven HBM demand continues to distort global memory allocation and server supply astutegroup.com",
+          "description": "AI-driven HBM demand continues to distort global memory allocation and server supply Astute Group",
           "published": "2026-06-15T07:00:00+00:00",
           "matched_trigger": [],
           "matched_watch": [],
@@ -167,7 +167,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 55
+      "items_scanned": 54
     },
     {
       "id": "dram_fab_output_earlier",
