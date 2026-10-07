@@ -1,6 +1,6 @@
 # TechTicker｜硬體價格週期監控
 
-> 最後更新：**2026-10-06**
+> 最後更新：**2026-10-07**
 
 ## Downturn Readiness：**17.5/100**
 
@@ -12,7 +12,7 @@
 
 | 事件 | 狀態 | 權重 | 最近證據 |
 |---|---:|---:|---|
-| 四大 CSP 下修 AI／資料中心 CapEx 指引 | 🟢 CLEAR | 20% | [Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - drrobertcastellano.substack.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5) |
+| 四大 CSP 下修 AI／資料中心 CapEx 指引 | 🟢 CLEAR | 20% | [Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5) |
 | AI Server 出貨預測首次明顯下修 | 🟢 CLEAR | 15% | [AI Server Demand Continues to Support Memory Prices in 3Q26, but Gains Moderate as Consumer Demand Weakens and High Base Effects Take Hold, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE44dnNMV2hzQW5DVUw5MkRuVTBNTWNiOTRoaDNjMER2MWh1OHhSZEtoTGN6bmlYX2lJSkhBdjZiS0lENWF6TE5WWW1NWFJwYzl4MlNEejVIRWM0NHprak05XzRVTllZcWxXQ2M0b2xKWHg?oc=5) |
 | CSP Server DRAM 庫存持續累積 | ⚪ UNKNOWN | 15% | — |
 | NAND 供需轉正／合約價 QoQ 轉跌 | 🟠 WATCH | 20% | [NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE8wcm12TzQ2WUlSdkRKM2lMUW85c1hhWFpjVGF0ekRmOC1XQWR4MmRlRk12ZWVvdE8yc2d2X01xWlJXX3Q2c2g4V2llZWgwdWk4YzJNajFURHRrVHRMUUQxRklON0Y1UGxGUXljRWF2MGQ?oc=5) |
