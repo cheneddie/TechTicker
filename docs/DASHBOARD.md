@@ -1,6 +1,6 @@
 # TechTicker｜硬體價格週期監控
 
-> 最後更新：**2026-10-09**
+> 最後更新：**2026-10-10**
 
 ## Downturn Readiness：**17.5/100**
 
@@ -16,7 +16,7 @@
 | AI Server 出貨預測首次明顯下修 | 🟢 CLEAR | 15% | [AI Server Demand Continues to Support Memory Prices in 3Q26, but Gains Moderate as Consumer Demand Weakens and High Base Effects Take Hold, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE44dnNMV2hzQW5DVUw5MkRuVTBNTWNiOTRoaDNjMER2MWh1OHhSZEtoTGN6bmlYX2lJSkhBdjZiS0lENWF6TE5WWW1NWFJwYzl4MlNEejVIRWM0NHprak05XzRVTllZcWxXQ2M0b2xKWHg?oc=5) |
 | CSP Server DRAM 庫存持續累積 | ⚪ UNKNOWN | 15% | — |
 | NAND 供需轉正／合約價 QoQ 轉跌 | 🟠 WATCH | 20% | [NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE8wcm12TzQ2WUlSdkRKM2lMUW85c1hhWFpjVGF0ekRmOC1XQWR4MmRlRk12ZWVvdE8yc2d2X01xWlJXX3Q2c2g4V2llZWgwdWk4YzJNajFURHRrVHRMUUQxRklON0Y1UGxGUXljRWF2MGQ?oc=5) |
-| Samsung／SK hynix／Micron 從配額轉向降價搶單 | 🟠 WATCH | 15% | [Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36 Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeXpyT20wN1RJUjh3RE5NMEttX1Z5bUNIQlpaT2FTNnY5ek9udGhDdThyOTFnVnRrQThVa1VQYXI1NFNoN1pTY2JHZTE2N1dhZllN?oc=5) |
+| Samsung／SK hynix／Micron 從配額轉向降價搶單 | 🟠 WATCH | 15% | [Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeXpyT20wN1RJUjh3RE5NMEttX1Z5bUNIQlpaT2FTNnY5ek9udGhDdThyOTFnVnRrQThVa1VQYXI1NFNoN1pTY2JHZTE2N1dhZllN?oc=5) |
 | DRAM 新廠大量產出時程由 2028 提前至 2027 | ⚪ UNKNOWN | 15% | — |
 
 ### 公開價格代理

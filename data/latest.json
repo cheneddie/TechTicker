@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-10-09",
+  "as_of": "2026-10-10",
   "scores": {
     "downturn_readiness": 17.5,
     "phase": "主升／供給吃緊",
@@ -31,7 +31,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 60
+      "items_scanned": 59
     },
     {
       "id": "ai_server_forecast_down",
@@ -117,9 +117,9 @@
       "signal_score": 4.0,
       "evidence": [
         {
-          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36 Kr",
+          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36Kr",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeXpyT20wN1RJUjh3RE5NMEttX1Z5bUNIQlpaT2FTNnY5ek9udGhDdThyOTFnVnRrQThVa1VQYXI1NFNoN1pTY2JHZTE2N1dhZllN?oc=5",
-          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power 36 Kr",
+          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power 36Kr",
           "published": "2026-08-05T07:00:00+00:00",
           "matched_trigger": [
             "price cut"
@@ -142,18 +142,6 @@
         }
       ],
       "counter_evidence": [
-        {
-          "title": "HBM spot prices soar to five times long-term contract levels: HBM4 yield pressures and long-term contract capacity allocations squeeze spot supply - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWV8xWEItUWV3VHFQTVB1aFFaS1FqWjNMeEhRZXF4WTZrX1VzQTFhOFpldDFGVWVhdzNBTWhDcjZyenYwTExiS1hFdGhQWnhzTzZzclZHUFJEb19HSmJJWU1IQnJpTUx4VzFuQ2l4VmdlYUhacVVseEw2c3hCWlVjUmF5QlBTLUxnNmpGcFlWWi1oZU1ac1JCQ19Taw?oc=5",
-          "description": "HBM spot prices soar to five times long-term contract levels: HBM4 yield pressures and long-term contract capacity allocations squeeze spot supply Moomoo",
-          "published": "2026-08-31T07:00:00+00:00",
-          "matched_trigger": [],
-          "matched_watch": [],
-          "matched_counter": [
-            "allocation"
-          ],
-          "signal_score": -1.0
-        },
         {
           "title": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases - Tom's Hardware",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmdhQm9kQ3JNU2hHTlVBaWFUZkdibFg4VmlIUC1lem5KMlIyWTFrZERjdi1LOVc2SW12X2o4M3lZTDRRWEF6alh6ek5vVl9mSDdUNzFjNEMwY3BPTU4yNnlBYmZ1dTlRVG5rdnVjd2doTEhpOXZ0UDVwU1BQV0tFOEctdVIxcVVnR29RQU1uYS1RdXhiZGd5ZklvT2szUlh6ZXZGQzJRTDdIUUV5N0ExVHNGZm4?oc=5",
@@ -190,7 +178,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 58
+      "items_scanned": 57
     }
   ],
   "fred": {
