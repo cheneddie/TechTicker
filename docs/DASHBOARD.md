@@ -1,6 +1,6 @@
 # TechTicker｜硬體價格週期監控
 
-> 最後更新：**2026-10-22**
+> 最後更新：**2026-10-23**
 
 ## Downturn Readiness：**25.0/100**
 
@@ -12,11 +12,11 @@
 
 | 事件 | 狀態 | 權重 | 最近證據 |
 |---|---:|---:|---|
-| 四大 CSP 下修 AI／資料中心 CapEx 指引 | ⚪ UNKNOWN | 20% | — |
-| AI Server 出貨預測首次明顯下修 | 🟢 CLEAR | 15% | [AI Server Demand Continues to Support Memory Prices in 3Q26, but Gains Moderate as Consumer Demand Weakens and High Base Effects Take Hold, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE44dnNMV2hzQW5DVUw5MkRuVTBNTWNiOTRoaDNjMER2MWh1OHhSZEtoTGN6bmlYX2lJSkhBdjZiS0lENWF6TE5WWW1NWFJwYzl4MlNEejVIRWM0NHprak05XzRVTllZcWxXQ2M0b2xKWHg?oc=5) |
+| 四大 CSP 下修 AI／資料中心 CapEx 指引 | 🟢 CLEAR | 20% | [Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5) |
+| AI Server 出貨預測首次明顯下修 | 🟢 CLEAR | 15% | [Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbTNIMXR6STBhZFlLX2EtYUhGWW5DdU9LOXFQWlhFVlVxOU0zZzJuOTZaRDRUbkhIMC10UkFxY1Q2RXU0QzNHQ3ZvSW1hczlFTGJfVF96SU9KdXd0MF9ERG9mZ01mSU5UTUdLcS1OQzE?oc=5) |
 | CSP Server DRAM 庫存持續累積 | ⚪ UNKNOWN | 15% | — |
 | NAND 供需轉正／合約價 QoQ 轉跌 | 🟠 WATCH | 20% | [NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE8wcm12TzQ2WUlSdkRKM2lMUW85c1hhWFpjVGF0ekRmOC1XQWR4MmRlRk12ZWVvdE8yc2d2X01xWlJXX3Q2c2g4V2llZWgwdWk4YzJNajFURHRrVHRMUUQxRklON0Y1UGxGUXljRWF2MGQ?oc=5) |
-| Samsung／SK hynix／Micron 從配額轉向降價搶單 | 🟠 WATCH | 15% | [Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - eu.36kr.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeXpyT20wN1RJUjh3RE5NMEttX1Z5bUNIQlpaT2FTNnY5ek9udGhDdThyOTFnVnRrQThVa1VQYXI1NFNoN1pTY2JHZTE2N1dhZllN?oc=5) |
+| Samsung／SK hynix／Micron 從配額轉向降價搶單 | 🟠 WATCH | 15% | [Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeXpyT20wN1RJUjh3RE5NMEttX1Z5bUNIQlpaT2FTNnY5ek9udGhDdThyOTFnVnRrQThVa1VQYXI1NFNoN1pTY2JHZTE2N1dhZllN?oc=5) |
 | DRAM 新廠大量產出時程由 2028 提前至 2027 | 🟠 WATCH | 15% | [[News] TSMC’s Taichung 1.4nm P1, P2 Fabs Could Begin Mass Production in 2027, Ahead of 2028 Plan - TrendForce](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOUNMQVljR3VnakJqanNtcjBjY0h0d1NFZGpFUmN2cEpvUm1LcHF6UjVEanZRbFlGNXpVNU51RkxoN0Fla2VsVm1wSmZ1VmxqbU9MZGQ4WnZuallyZVNWYkhDTXYwNUxpbFZjZDNIVEZmelJmOTBRUTR5WVFxSGdZOE9iaUlSTk9pU202b01tLWRpaF9BLXZZSUtDLVJ4VGU2bGJnY29FemtpZVlkSFYxU1lNb0J0OXl0Rjk3cGZkejUtSG9BZ3R0NUxNd1JwcVFK?oc=5) |
 
 ### 公開價格代理
