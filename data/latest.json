@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "scores": {
-    "downturn_readiness": 25.0,
+    "downturn_readiness": 35.0,
     "phase": "過熱但尚未反轉",
-    "event_score": 25.0,
+    "event_score": 35.0,
     "price_confirmation_score": null,
     "capex_confirmation_score": null
   },
@@ -13,10 +13,23 @@
       "id": "csp_capex_guidance_down",
       "label_zh": "四大 CSP 下修 AI／資料中心 CapEx 指引",
       "weight": 20,
-      "state": "CLEAR",
-      "multiplier": 0.0,
-      "signal_score": 0.0,
-      "evidence": [],
+      "state": "WATCH",
+      "multiplier": 0.5,
+      "signal_score": 2.0,
+      "evidence": [
+        {
+          "title": "Why Did Intel Stock Plunge 8%? Tesla CapEx Cut Sparks AI Chip Demand Concerns - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHVWUUlxd0JKSTZEZkRRTmdHRDdqUWJWcHJEanRxS0Nqdm9sWG96OUVWYVFobHFwNG9xZjA4WVFKUFNNN2tDY0wzOUdQY29sdG1rVXNDRnRVS29DSjR3YnZSZzJlV1BTT3dsSFhGNTlObFJDY3BkYTMzOGFlRS1HWXRKd3U3N0c1Mk9rZFBZWWI2czRMLXZISmIwUWd5YzdXVUl4MGEwbWhkTmI4eHY5RkFXLVRoVkhVc1JQaFRUellIQ0phSUlxWXJyMnFrbm4zVHc?oc=5",
+          "description": "Why Did Intel Stock Plunge 8%? Tesla CapEx Cut Sparks AI Chip Demand Concerns TradingKey",
+          "published": "2026-10-23T06:52:49+00:00",
+          "matched_trigger": [
+            "capex cut"
+          ],
+          "matched_watch": [],
+          "matched_counter": [],
+          "signal_score": 2.0
+        }
+      ],
       "counter_evidence": [
         {
           "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
@@ -31,7 +44,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 59
+      "items_scanned": 58
     },
     {
       "id": "ai_server_forecast_down",
