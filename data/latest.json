@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "scores": {
     "downturn_readiness": 35.0,
     "phase": "過熱但尚未反轉",
@@ -44,7 +44,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 58
+      "items_scanned": 55
     },
     {
       "id": "ai_server_forecast_down",
@@ -82,7 +82,7 @@
           "signal_score": -2.0
         }
       ],
-      "items_scanned": 35
+      "items_scanned": 54
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -119,7 +119,7 @@
         }
       ],
       "counter_evidence": [],
-      "items_scanned": 7
+      "items_scanned": 6
     },
     {
       "id": "memory_vendor_discounting",
@@ -180,7 +180,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 55
+      "items_scanned": 54
     },
     {
       "id": "dram_fab_output_earlier",
