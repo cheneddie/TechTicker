@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "scores": {
     "downturn_readiness": 35.0,
     "phase": "過熱但尚未反轉",
@@ -30,21 +30,8 @@
           "signal_score": 2.0
         }
       ],
-      "counter_evidence": [
-        {
-          "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
-          "description": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
-          "published": "2026-07-22T07:00:00+00:00",
-          "matched_trigger": [],
-          "matched_watch": [],
-          "matched_counter": [
-            "raise capex"
-          ],
-          "signal_score": -1.0
-        }
-      ],
-      "items_scanned": 59
+      "counter_evidence": [],
+      "items_scanned": 60
     },
     {
       "id": "ai_server_forecast_down",
@@ -180,7 +167,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 54
+      "items_scanned": 55
     },
     {
       "id": "dram_fab_output_earlier",
@@ -204,7 +191,7 @@
         }
       ],
       "counter_evidence": [],
-      "items_scanned": 57
+      "items_scanned": 39
     }
   ],
   "fred": {
