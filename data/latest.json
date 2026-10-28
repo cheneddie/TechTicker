@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "scores": {
     "downturn_readiness": 35.0,
     "phase": "過熱但尚未反轉",
@@ -30,8 +30,21 @@
           "signal_score": 2.0
         }
       ],
-      "counter_evidence": [],
-      "items_scanned": 60
+      "counter_evidence": [
+        {
+          "title": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVBQQnREaHBhVnByYVlfMGZjWVFzOG1TMnFiT0V4cEpObHFId0s0UHdLdV9UMzVVUnowdG5XcU90cUFLdFBTN08xZUtMcHZNcDJvZjllMVFfemdxQlN3eGlBRVZ0eFZieS1Ka3VVTkhYY3o4ZndEM2JvQjZZYjEwM2VHSGRMUUFqTHZKQ045SjJ1cGNNdE9oZHlReFZQajl0MnkyMUVGOF9JVWN4SzdKMVdjQldabVpFLXJmQktwb1I0Z1dKUC16VUNqcw?oc=5",
+          "description": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again TradingKey",
+          "published": "2026-07-30T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "capex raised"
+          ],
+          "signal_score": -1.0
+        }
+      ],
+      "items_scanned": 59
     },
     {
       "id": "ai_server_forecast_down",
@@ -39,8 +52,21 @@
       "weight": 15,
       "state": "CLEAR",
       "multiplier": 0.0,
-      "signal_score": 0.0,
-      "evidence": [],
+      "signal_score": 0.8,
+      "evidence": [
+        {
+          "title": "AI Server Demand Continues to Support Memory Prices in 3Q26, but Gains Moderate as Consumer Demand Weakens and High Base Effects Take Hold, Says TrendForce - TrendForce",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44dnNMV2hzQW5DVUw5MkRuVTBNTWNiOTRoaDNjMER2MWh1OHhSZEtoTGN6bmlYX2lJSkhBdjZiS0lENWF6TE5WWW1NWFJwYzl4MlNEejVIRWM0NHprak05XzRVTllZcWxXQ2M0b2xKWHg?oc=5",
+          "description": "AI Server Demand Continues to Support Memory Prices in 3Q26, but Gains Moderate as Consumer Demand Weakens and High Base Effects Take Hold, Says TrendForce TrendForce",
+          "published": "2026-07-03T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [
+            "high base"
+          ],
+          "matched_counter": [],
+          "signal_score": 0.8
+        }
+      ],
       "counter_evidence": [
         {
           "title": "Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce - TrendForce",
@@ -69,7 +95,7 @@
           "signal_score": -2.0
         }
       ],
-      "items_scanned": 54
+      "items_scanned": 53
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -114,20 +140,8 @@
       "weight": 15,
       "state": "WATCH",
       "multiplier": 0.5,
-      "signal_score": 4.0,
+      "signal_score": 2.0,
       "evidence": [
-        {
-          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - 36Kr",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeXpyT20wN1RJUjh3RE5NMEttX1Z5bUNIQlpaT2FTNnY5ek9udGhDdThyOTFnVnRrQThVa1VQYXI1NFNoN1pTY2JHZTE2N1dhZllN?oc=5",
-          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power 36Kr",
-          "published": "2026-08-05T07:00:00+00:00",
-          "matched_trigger": [
-            "price cut"
-          ],
-          "matched_watch": [],
-          "matched_counter": [],
-          "signal_score": 2.0
-        },
         {
           "title": "CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report - Wccftech",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWExUcjRFckphNERJYVdNdEdfWThrWWtKUFVpdll0Y1RRVVVwSlN6WEpOT0xNb2pQdE9fdHpSbTd4am52NEFyTzVObEZZUWh3emJDWGZDblkwWEpGVlhCLWgtX3ZaakxfVS1kMjFvcThNRUZGZG1kUmJyeVJERFNLTXZaMzgzbWZUdExNeXVnWWdLeVlhcmxORktnTXl4M0J5MzJiU1NObVVtOWRZTGdNQVVwYVhOazBRenBzdml2OFhQU1lpckHSAcsBQVVfeXFMUHAtMC1LdjloWjBiV2p0b2VGeXFCck1NdnlTTEZZZjlLNUNRNk9MQzhaM2dSaDZSSl9TaWlMcklxSkZYS1VMR01USGplWEpOYmdlVHlmQi04b1FVQWNvcEZKM2dtNmg3MlZrLXZtOVBhalV5YjVQZmFVYWRBU0I5RHd6TVZMSUZuXzVwYVNxLTNCdFpUTkFUWVJhbjlabVFyLVZvbk5GZEVQbDZuNnlEYlVQa2NscW5MY096aHdiYkYxSjZueFNCTGNfd28?oc=5",
@@ -143,14 +157,14 @@
       ],
       "counter_evidence": [
         {
-          "title": "HBM spot prices soar to five times long-term contract levels: HBM4 yield pressures and long-term contract capacity allocations squeeze spot supply - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWV8xWEItUWV3VHFQTVB1aFFaS1FqWjNMeEhRZXF4WTZrX1VzQTFhOFpldDFGVWVhdzNBTWhDcjZyenYwTExiS1hFdGhQWnhzTzZzclZHUFJEb19HSmJJWU1IQnJpTUx4VzFuQ2l4VmdlYUhacVVseEw2c3hCWlVjUmF5QlBTLUxnNmpGcFlWWi1oZU1ac1JCQ19Taw?oc=5",
-          "description": "HBM spot prices soar to five times long-term contract levels: HBM4 yield pressures and long-term contract capacity allocations squeeze spot supply Moomoo",
-          "published": "2026-08-31T07:00:00+00:00",
+          "title": "Institutions: Samsung and SK Hynix memory inventory falls below 10 days; price hikes pass through to mobile phones and computers - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEtlbFBPdF9ZbWdyMHBjdkJINm1YSllIVDNGVVZVTGNYSGFLRndsbnFzRmJ4akczZnVlN1JEcmhmdDZjYm5uLVZVMVBiUmNmVVRnY0czLTlEQXNhUk9WOVByRkI5QUlhUGdFVlJ0eTdmVUIteGVGaFlZQVpqYnozUTRiU2dvZFFWVDlLdDBWQVdBcm4wRlNHbmx0NmNORFpYMFc0aUhtR0h3OXc?oc=5",
+          "description": "Institutions: Samsung and SK Hynix memory inventory falls below 10 days; price hikes pass through to mobile phones and computers Moomoo",
+          "published": "2026-09-07T09:33:27+00:00",
           "matched_trigger": [],
           "matched_watch": [],
           "matched_counter": [
-            "allocation"
+            "price hike"
           ],
           "signal_score": -1.0
         },
@@ -167,7 +181,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 55
+      "items_scanned": 39
     },
     {
       "id": "dram_fab_output_earlier",
@@ -191,7 +205,7 @@
         }
       ],
       "counter_evidence": [],
-      "items_scanned": 39
+      "items_scanned": 57
     }
   ],
   "fred": {
