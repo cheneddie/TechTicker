@@ -1,6 +1,6 @@
 # TechTicker｜硬體價格週期監控
 
-> 最後更新：**2026-11-02**
+> 最後更新：**2026-11-03**
 
 ## Downturn Readiness：**35.0/100**
 
@@ -12,7 +12,7 @@
 
 | 事件 | 狀態 | 權重 | 最近證據 |
 |---|---:|---:|---|
-| 四大 CSP 下修 AI／資料中心 CapEx 指引 | 🟠 WATCH | 20% | [Why Did Intel Stock Plunge 8%? Tesla CapEx Cut Sparks AI Chip Demand Concerns - TradingKey](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHVWUUlxd0JKSTZEZkRRTmdHRDdqUWJWcHJEanRxS0Nqdm9sWG96OUVWYVFobHFwNG9xZjA4WVFKUFNNN2tDY0wzOUdQY29sdG1rVXNDRnRVS29DSjR3YnZSZzJlV1BTT3dsSFhGNTlObFJDY3BkYTMzOGFlRS1HWXRKd3U3N0c1Mk9rZFBZWWI2czRMLXZISmIwUWd5YzdXVUl4MGEwbWhkTmI4eHY5RkFXLVRoVkhVc1JQaFRUellIQ0phSUlxWXJyMnFrbm4zVHc?oc=5) |
+| 四大 CSP 下修 AI／資料中心 CapEx 指引 | 🟠 WATCH | 20% | [Capex cuts could be 'unwelcome' but extend the cycle: BofA - TradingView](https://news.google.com/rss/articles/CBMiugFBVV95cUxObm9hYU9BVG1TNFhNNElJLVY2ZVJESU92NUJuMUpYVjBpTjdCbDY0MUM0U3hIemhUS1Ezc3E1dTE5SUcyQnkzZ19adEFONk1aLXdkVV9HVnFIQ0pWZFA3Y2RJQ3ozV3NTazdMaUJSSlN6UXdjZHZKSDRzXzQ5bDMycFFiZGJyZE5ERXduRjZ4S2VENEZXUWI3UndtSWlBckJRbFV5ajdzMXc4cVFkRTNfY3pYd2pFdGV6eEE?oc=5) |
 | AI Server 出貨預測首次明顯下修 | 🟢 CLEAR | 15% | [Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbTNIMXR6STBhZFlLX2EtYUhGWW5DdU9LOXFQWlhFVlVxOU0zZzJuOTZaRDRUbkhIMC10UkFxY1Q2RXU0QzNHQ3ZvSW1hczlFTGJfVF96SU9KdXd0MF9ERG9mZ01mSU5UTUdLcS1OQzE?oc=5) |
 | CSP Server DRAM 庫存持續累積 | ⚪ UNKNOWN | 15% | — |
 | NAND 供需轉正／合約價 QoQ 轉跌 | 🟠 WATCH | 20% | [NAND Flash Supply Growth to Outpace Demand in 2027, Easing Supply Constraints in 2H27, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE8wcm12TzQ2WUlSdkRKM2lMUW85c1hhWFpjVGF0ekRmOC1XQWR4MmRlRk12ZWVvdE8yc2d2X01xWlJXX3Q2c2g4V2llZWgwdWk4YzJNajFURHRrVHRMUUQxRklON0Y1UGxGUXljRWF2MGQ?oc=5) |
