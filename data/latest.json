@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "scores": {
     "downturn_readiness": 35.0,
     "phase": "過熱但尚未反轉",
@@ -21,7 +21,7 @@
           "title": "Capex cuts could be 'unwelcome' but extend the cycle: BofA (NVDA:NASDAQ) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGIxbU4xbGdwa0h0b3NWLVlwV096elRYalc4Q181MlNRUW5QU2hDVTZ5aU1kQ2tURmdkcnE0NkZhaDZlMHQ1czZiX2NXYXNfbDVSM1V1SEpmcU5vU0lDOEs5aTRRVGRONW91TzRkZ1k2bmh2Qi1MU1hFelhVNXpHUTRwV2JxQW81Vm1hMzJfUkhNMVRHelFtZw?oc=5",
           "description": "Capex cuts could be 'unwelcome' but extend the cycle: BofA (NVDA:NASDAQ) Seeking Alpha",
-          "published": "2026-11-02T20:43:54+00:00",
+          "published": "2026-11-02T20:43:00+00:00",
           "matched_trigger": [
             "capex cut"
           ],
@@ -43,7 +43,7 @@
         }
       ],
       "counter_evidence": [],
-      "items_scanned": 54
+      "items_scanned": 56
     },
     {
       "id": "ai_server_forecast_down",
@@ -167,7 +167,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 39
+      "items_scanned": 40
     },
     {
       "id": "dram_fab_output_earlier",
