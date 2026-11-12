@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "scores": {
-    "downturn_readiness": 35.0,
-    "phase": "過熱但尚未反轉",
-    "event_score": 35.0,
+    "downturn_readiness": 45.0,
+    "phase": "築頂監控",
+    "event_score": 45.0,
     "price_confirmation_score": null,
     "capex_confirmation_score": null
   },
@@ -13,15 +13,27 @@
       "id": "csp_capex_guidance_down",
       "label_zh": "四大 CSP 下修 AI／資料中心 CapEx 指引",
       "weight": 20,
-      "state": "WATCH",
-      "multiplier": 0.5,
-      "signal_score": 4.0,
+      "state": "TRIGGERED",
+      "multiplier": 1.0,
+      "signal_score": 6.0,
       "evidence": [
         {
           "title": "Capex cuts could be 'unwelcome' but extend the cycle: BofA (NVDA:NASDAQ) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGIxbU4xbGdwa0h0b3NWLVlwV096elRYalc4Q181MlNRUW5QU2hDVTZ5aU1kQ2tURmdkcnE0NkZhaDZlMHQ1czZiX2NXYXNfbDVSM1V1SEpmcU5vU0lDOEs5aTRRVGRONW91TzRkZ1k2bmh2Qi1MU1hFelhVNXpHUTRwV2JxQW81Vm1hMzJfUkhNMVRHelFtZw?oc=5",
           "description": "Capex cuts could be 'unwelcome' but extend the cycle: BofA (NVDA:NASDAQ) Seeking Alpha",
           "published": "2026-11-02T08:00:00+00:00",
+          "matched_trigger": [
+            "capex cut"
+          ],
+          "matched_watch": [],
+          "matched_counter": [],
+          "signal_score": 2.0
+        },
+        {
+          "title": "Why Did Intel Stock Plunge 8%? Tesla CapEx Cut Sparks AI Chip Demand Concerns - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHVWUUlxd0JKSTZEZkRRTmdHRDdqUWJWcHJEanRxS0Nqdm9sWG96OUVWYVFobHFwNG9xZjA4WVFKUFNNN2tDY0wzOUdQY29sdG1rVXNDRnRVS29DSjR3YnZSZzJlV1BTT3dsSFhGNTlObFJDY3BkYTMzOGFlRS1HWXRKd3U3N0c1Mk9rZFBZWWI2czRMLXZISmIwUWd5YzdXVUl4MGEwbWhkTmI4eHY5RkFXLVRoVkhVc1JQaFRUellIQ0phSUlxWXJyMnFrbm4zVHc?oc=5",
+          "description": "Why Did Intel Stock Plunge 8%? Tesla CapEx Cut Sparks AI Chip Demand Concerns TradingKey",
+          "published": "2026-10-23T07:00:00+00:00",
           "matched_trigger": [
             "capex cut"
           ],
@@ -79,9 +91,22 @@
             "raised to"
           ],
           "signal_score": -2.0
+        },
+        {
+          "title": "TrendForce Consulting: CSP capital expenditures are projected to increase by 90% year-over-year this year; the forecast for AI server shipment growth in 2026 has been revised upward to nearly 31%. - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVU9BV2dtSGJlZXpCTkxHb19hQjdfR3c3b0pOazlhUUZhYy1fSlNYREZ5WGd1RFpiaDBRcWZPN0dfaVlMU0VLLUtPdzBtLV9QUlg5OHo1ZlVvOGk1RmI4aU5kUUlEM0tkaktaLXpOTUZjaWQzdmU1RndicXBFYWY0SDF3UjBJMG5wRFpfUGhCcGxuRDdnZGVFSXVPY1JPNE1PQzlpRjFUVlBuVldINmxGUGQzMHAtSXVz?oc=5",
+          "description": "TrendForce Consulting: CSP capital expenditures are projected to increase by 90% year-over-year this year; the forecast for AI server shipment growth in 2026 has been revised upward to nearly 31%. Moomoo",
+          "published": "2026-08-02T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "revised upward",
+            "shipment growth"
+          ],
+          "signal_score": -2.0
         }
       ],
-      "items_scanned": 36
+      "items_scanned": 52
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -143,6 +168,18 @@
       ],
       "counter_evidence": [
         {
+          "title": "Fresh Round of Memory Price Hikes Brewing as Enterprise-Grade Chip Channel Quotes Climb 'Day by Day' - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoNGdYQ3dzWTFLd1NkcEVrMlU2VTVHUVM2c042Z2xUTl94ZXVqQ3dJYmRXOS1wT0l1dURWaVNPSEJlX0xJcDlRZE9tUlJDc2RibEZ0R1Zpa3Njdnc0MkhkYjJnSGNWY1h4eExfeTM0dzhaZzc2dVE?oc=5",
+          "description": "Fresh Round of Memory Price Hikes Brewing as Enterprise-Grade Chip Channel Quotes Climb 'Day by Day' BigGo Finance",
+          "published": "2026-11-11T06:25:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "price hike"
+          ],
+          "signal_score": -1.0
+        },
+        {
           "title": "Institutions: Samsung and SK Hynix memory inventory falls below 10 days; price hikes pass through to mobile phones and computers - Moomoo",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEtlbFBPdF9ZbWdyMHBjdkJINm1YSllIVDNGVVZVTGNYSGFLRndsbnFzRmJ4akczZnVlN1JEcmhmdDZjYm5uLVZVMVBiUmNmVVRnY0czLTlEQXNhUk9WOVByRkI5QUlhUGdFVlJ0eTdmVUIteGVGaFlZQVpqYnozUTRiU2dvZFFWVDlLdDBWQVdBcm4wRlNHbmx0NmNORFpYMFc0aUhtR0h3OXc?oc=5",
           "description": "Institutions: Samsung and SK Hynix memory inventory falls below 10 days; price hikes pass through to mobile phones and computers Moomoo",
@@ -155,7 +192,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 41
+      "items_scanned": 40
     },
     {
       "id": "dram_fab_output_earlier",
