@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "scores": {
-    "downturn_readiness": 45.0,
-    "phase": "築頂監控",
-    "event_score": 45.0,
+    "downturn_readiness": 35.0,
+    "phase": "過熱但尚未反轉",
+    "event_score": 35.0,
     "price_confirmation_score": null,
     "capex_confirmation_score": null
   },
@@ -13,27 +13,15 @@
       "id": "csp_capex_guidance_down",
       "label_zh": "四大 CSP 下修 AI／資料中心 CapEx 指引",
       "weight": 20,
-      "state": "TRIGGERED",
-      "multiplier": 1.0,
-      "signal_score": 6.0,
+      "state": "WATCH",
+      "multiplier": 0.5,
+      "signal_score": 4.0,
       "evidence": [
-        {
-          "title": "Capex cuts could be 'unwelcome' but extend the cycle: BofA (NVDA:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGIxbU4xbGdwa0h0b3NWLVlwV096elRYalc4Q181MlNRUW5QU2hDVTZ5aU1kQ2tURmdkcnE0NkZhaDZlMHQ1czZiX2NXYXNfbDVSM1V1SEpmcU5vU0lDOEs5aTRRVGRONW91TzRkZ1k2bmh2Qi1MU1hFelhVNXpHUTRwV2JxQW81Vm1hMzJfUkhNMVRHelFtZw?oc=5",
-          "description": "Capex cuts could be 'unwelcome' but extend the cycle: BofA (NVDA:NASDAQ) Seeking Alpha",
-          "published": "2026-11-02T08:00:00+00:00",
-          "matched_trigger": [
-            "capex cut"
-          ],
-          "matched_watch": [],
-          "matched_counter": [],
-          "signal_score": 2.0
-        },
         {
           "title": "Why Did Intel Stock Plunge 8%? Tesla CapEx Cut Sparks AI Chip Demand Concerns - TradingKey",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHVWUUlxd0JKSTZEZkRRTmdHRDdqUWJWcHJEanRxS0Nqdm9sWG96OUVWYVFobHFwNG9xZjA4WVFKUFNNN2tDY0wzOUdQY29sdG1rVXNDRnRVS29DSjR3YnZSZzJlV1BTT3dsSFhGNTlObFJDY3BkYTMzOGFlRS1HWXRKd3U3N0c1Mk9rZFBZWWI2czRMLXZISmIwUWd5YzdXVUl4MGEwbWhkTmI4eHY5RkFXLVRoVkhVc1JQaFRUellIQ0phSUlxWXJyMnFrbm4zVHc?oc=5",
           "description": "Why Did Intel Stock Plunge 8%? Tesla CapEx Cut Sparks AI Chip Demand Concerns TradingKey",
-          "published": "2026-10-23T07:00:00+00:00",
+          "published": "2026-10-22T07:00:00+00:00",
           "matched_trigger": [
             "capex cut"
           ],
@@ -54,8 +42,21 @@
           "signal_score": 2.0
         }
       ],
-      "counter_evidence": [],
-      "items_scanned": 59
+      "counter_evidence": [
+        {
+          "title": "Nebius Drops 10% on Weak 2026 Outlook, Capex Surge - The Tech Buzz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVRBVmFSX2tBcGdSNk1UUjhsbTBtUWZnd2F4aW1WWXlEYldPLVJFR2k1UkFIanc3X1FTQkh3ZVE4cWdjQnhpeUxTckFTZTcyT3h6RWV1ZzR1cEx0eUx3R3FxOWtTc3hvTlJrVS1VWnhyNWhSRG0zVXpuQ3lQOTZrTGU5c1pxejhq?oc=5",
+          "description": "Nebius Drops 10% on Weak 2026 Outlook, Capex Surge The Tech Buzz",
+          "published": "2026-11-12T13:05:38+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "capex surge"
+          ],
+          "signal_score": -1.0
+        }
+      ],
+      "items_scanned": 57
     },
     {
       "id": "ai_server_forecast_down",
@@ -143,7 +144,7 @@
         }
       ],
       "counter_evidence": [],
-      "items_scanned": 4
+      "items_scanned": 5
     },
     {
       "id": "memory_vendor_discounting",
@@ -183,7 +184,7 @@
           "title": "Institutions: Samsung and SK Hynix memory inventory falls below 10 days; price hikes pass through to mobile phones and computers - Moomoo",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEtlbFBPdF9ZbWdyMHBjdkJINm1YSllIVDNGVVZVTGNYSGFLRndsbnFzRmJ4akczZnVlN1JEcmhmdDZjYm5uLVZVMVBiUmNmVVRnY0czLTlEQXNhUk9WOVByRkI5QUlhUGdFVlJ0eTdmVUIteGVGaFlZQVpqYnozUTRiU2dvZFFWVDlLdDBWQVdBcm4wRlNHbmx0NmNORFpYMFc0aUhtR0h3OXc?oc=5",
           "description": "Institutions: Samsung and SK Hynix memory inventory falls below 10 days; price hikes pass through to mobile phones and computers Moomoo",
-          "published": "2026-09-07T07:00:00+00:00",
+          "published": "2026-09-07T09:33:27+00:00",
           "matched_trigger": [],
           "matched_watch": [],
           "matched_counter": [
@@ -192,7 +193,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 40
+      "items_scanned": 38
     },
     {
       "id": "dram_fab_output_earlier",
