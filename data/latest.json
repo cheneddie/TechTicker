@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "scores": {
     "downturn_readiness": 35.0,
     "phase": "過熱但尚未反轉",
@@ -42,21 +42,8 @@
           "signal_score": 2.0
         }
       ],
-      "counter_evidence": [
-        {
-          "title": "Nebius Drops 10% on Weak 2026 Outlook, Capex Surge - The Tech Buzz",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVRBVmFSX2tBcGdSNk1UUjhsbTBtUWZnd2F4aW1WWXlEYldPLVJFR2k1UkFIanc3X1FTQkh3ZVE4cWdjQnhpeUxTckFTZTcyT3h6RWV1ZzR1cEx0eUx3R3FxOWtTc3hvTlJrVS1VWnhyNWhSRG0zVXpuQ3lQOTZrTGU5c1pxejhq?oc=5",
-          "description": "Nebius Drops 10% on Weak 2026 Outlook, Capex Surge The Tech Buzz",
-          "published": "2026-11-12T13:05:38+00:00",
-          "matched_trigger": [],
-          "matched_watch": [],
-          "matched_counter": [
-            "capex surge"
-          ],
-          "signal_score": -1.0
-        }
-      ],
-      "items_scanned": 57
+      "counter_evidence": [],
+      "items_scanned": 55
     },
     {
       "id": "ai_server_forecast_down",
@@ -107,7 +94,7 @@
           "signal_score": -2.0
         }
       ],
-      "items_scanned": 52
+      "items_scanned": 53
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -118,7 +105,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 4
+      "items_scanned": 3
     },
     {
       "id": "nand_oversupply_price_down",
