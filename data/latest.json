@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-11-20",
+  "as_of": "2026-11-21",
   "scores": {
     "downturn_readiness": 15.0,
     "phase": "主升／供給吃緊",
@@ -54,9 +54,22 @@
             "raised to"
           ],
           "signal_score": -2.0
+        },
+        {
+          "title": "TrendForce Consulting: CSP capital expenditures are projected to increase by 90% year-over-year this year; the forecast for AI server shipment growth in 2026 has been revised upward to nearly 31%. - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVU9BV2dtSGJlZXpCTkxHb19hQjdfR3c3b0pOazlhUUZhYy1fSlNYREZ5WGd1RFpiaDBRcWZPN0dfaVlMU0VLLUtPdzBtLV9QUlg5OHo1ZlVvOGk1RmI4aU5kUUlEM0tkaktaLXpOTUZjaWQzdmU1RndicXBFYWY0SDF3UjBJMG5wRFpfUGhCcGxuRDdnZGVFSXVPY1JPNE1PQzlpRjFUVlBuVldINmxGUGQzMHAtSXVz?oc=5",
+          "description": "TrendForce Consulting: CSP capital expenditures are projected to increase by 90% year-over-year this year; the forecast for AI server shipment growth in 2026 has been revised upward to nearly 31%. Moomoo",
+          "published": "2026-08-02T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "revised upward",
+            "shipment growth"
+          ],
+          "signal_score": -2.0
         }
       ],
-      "items_scanned": 36
+      "items_scanned": 37
     },
     {
       "id": "csp_dram_inventory_buildup",
