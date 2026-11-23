@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "as_of": "2026-11-22",
+  "as_of": "2026-11-23",
   "scores": {
-    "downturn_readiness": 15.0,
-    "phase": "主升／供給吃緊",
-    "event_score": 15.0,
+    "downturn_readiness": 25.0,
+    "phase": "過熱但尚未反轉",
+    "event_score": 25.0,
     "price_confirmation_score": null,
     "capex_confirmation_score": null
   },
@@ -13,12 +13,37 @@
       "id": "csp_capex_guidance_down",
       "label_zh": "四大 CSP 下修 AI／資料中心 CapEx 指引",
       "weight": 20,
-      "state": "UNKNOWN",
-      "multiplier": 0.0,
-      "signal_score": 0.0,
-      "evidence": [],
+      "state": "WATCH",
+      "multiplier": 0.5,
+      "signal_score": 4.0,
+      "evidence": [
+        {
+          "title": "Capex cuts could be 'unwelcome' but extend the cycle: BofA (NVDA:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGIxbU4xbGdwa0h0b3NWLVlwV096elRYalc4Q181MlNRUW5QU2hDVTZ5aU1kQ2tURmdkcnE0NkZhaDZlMHQ1czZiX2NXYXNfbDVSM1V1SEpmcU5vU0lDOEs5aTRRVGRONW91TzRkZ1k2bmh2Qi1MU1hFelhVNXpHUTRwV2JxQW81Vm1hMzJfUkhNMVRHelFtZw?oc=5",
+          "description": "Capex cuts could be 'unwelcome' but extend the cycle: BofA (NVDA:NASDAQ) Seeking Alpha",
+          "published": "2026-11-02T08:00:00+00:00",
+          "matched_trigger": [
+            "capex cut"
+          ],
+          "matched_watch": [],
+          "matched_counter": [],
+          "signal_score": 2.0
+        },
+        {
+          "title": "Microsoft adjusts capex outlook due to accounting change, not a spending slowdown - Crypto Briefing",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40WTloSGZrenczZ1NGM0tKaHF1OFVtbUhKLV9MZG83RDFKc2t1bHo1OExZOVdtcVBXUEZpTGR6TlVJallRZlExQUlXQzg4b1hzbmJidWR5Z2lCS3NQVHBndkVKdjk2bXJVNkNabXJiX09QNzlYSGZ2TDNBeWR5UQ?oc=5",
+          "description": "Microsoft adjusts capex outlook due to accounting change, not a spending slowdown Crypto Briefing",
+          "published": "2026-08-10T07:00:00+00:00",
+          "matched_trigger": [
+            "spending slowdown"
+          ],
+          "matched_watch": [],
+          "matched_counter": [],
+          "signal_score": 2.0
+        }
+      ],
       "counter_evidence": [],
-      "items_scanned": 46
+      "items_scanned": 58
     },
     {
       "id": "ai_server_forecast_down",
@@ -128,7 +153,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 56
+      "items_scanned": 38
     },
     {
       "id": "dram_fab_output_earlier",
@@ -152,7 +177,7 @@
         }
       ],
       "counter_evidence": [],
-      "items_scanned": 39
+      "items_scanned": 38
     }
   ],
   "fred": {
