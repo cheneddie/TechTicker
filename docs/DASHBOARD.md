@@ -1,6 +1,6 @@
 # TechTicker｜硬體價格週期監控
 
-> 最後更新：**2026-11-23**
+> 最後更新：**2026-11-24**
 
 ## Downturn Readiness：**25.0/100**
 
@@ -12,7 +12,7 @@
 
 | 事件 | 狀態 | 權重 | 最近證據 |
 |---|---:|---:|---|
-| 四大 CSP 下修 AI／資料中心 CapEx 指引 | 🟠 WATCH | 20% | [Capex cuts could be 'unwelcome' but extend the cycle: BofA (NVDA:NASDAQ) - Seeking Alpha](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGIxbU4xbGdwa0h0b3NWLVlwV096elRYalc4Q181MlNRUW5QU2hDVTZ5aU1kQ2tURmdkcnE0NkZhaDZlMHQ1czZiX2NXYXNfbDVSM1V1SEpmcU5vU0lDOEs5aTRRVGRONW91TzRkZ1k2bmh2Qi1MU1hFelhVNXpHUTRwV2JxQW81Vm1hMzJfUkhNMVRHelFtZw?oc=5) |
+| 四大 CSP 下修 AI／資料中心 CapEx 指引 | 🟠 WATCH | 20% | [Microsoft adjusts capex outlook due to accounting change, not a spending slowdown - Crypto Briefing](https://news.google.com/rss/articles/CBMifkFVX3lxTE40WTloSGZrenczZ1NGM0tKaHF1OFVtbUhKLV9MZG83RDFKc2t1bHo1OExZOVdtcVBXUEZpTGR6TlVJallRZlExQUlXQzg4b1hzbmJidWR5Z2lCS3NQVHBndkVKdjk2bXJVNkNabXJiX09QNzlYSGZ2TDNBeWR5UQ?oc=5) |
 | AI Server 出貨預測首次明顯下修 | 🟢 CLEAR | 15% | [Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbTNIMXR6STBhZFlLX2EtYUhGWW5DdU9LOXFQWlhFVlVxOU0zZzJuOTZaRDRUbkhIMC10UkFxY1Q2RXU0QzNHQ3ZvSW1hczlFTGJfVF96SU9KdXd0MF9ERG9mZ01mSU5UTUdLcS1OQzE?oc=5) |
 | CSP Server DRAM 庫存持續累積 | ⚪ UNKNOWN | 15% | — |
 | NAND 供需轉正／合約價 QoQ 轉跌 | ⚪ UNKNOWN | 20% | — |
