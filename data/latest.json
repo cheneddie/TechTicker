@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "as_of": "2026-11-25",
+  "as_of": "2026-11-26",
   "scores": {
-    "downturn_readiness": 15.0,
-    "phase": "主升／供給吃緊",
-    "event_score": 15.0,
+    "downturn_readiness": 25.0,
+    "phase": "過熱但尚未反轉",
+    "event_score": 25.0,
     "price_confirmation_score": null,
     "capex_confirmation_score": null
   },
@@ -13,12 +13,50 @@
       "id": "csp_capex_guidance_down",
       "label_zh": "四大 CSP 下修 AI／資料中心 CapEx 指引",
       "weight": 20,
-      "state": "UNKNOWN",
-      "multiplier": 0.0,
-      "signal_score": 0.0,
-      "evidence": [],
-      "counter_evidence": [],
-      "items_scanned": 48
+      "state": "WATCH",
+      "multiplier": 0.5,
+      "signal_score": 4.0,
+      "evidence": [
+        {
+          "title": "Capex cuts could be 'unwelcome' but extend the cycle: BofA (NVDA:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGIxbU4xbGdwa0h0b3NWLVlwV096elRYalc4Q181MlNRUW5QU2hDVTZ5aU1kQ2tURmdkcnE0NkZhaDZlMHQ1czZiX2NXYXNfbDVSM1V1SEpmcU5vU0lDOEs5aTRRVGRONW91TzRkZ1k2bmh2Qi1MU1hFelhVNXpHUTRwV2JxQW81Vm1hMzJfUkhNMVRHelFtZw?oc=5",
+          "description": "Capex cuts could be 'unwelcome' but extend the cycle: BofA (NVDA:NASDAQ) Seeking Alpha",
+          "published": "2026-11-02T08:00:00+00:00",
+          "matched_trigger": [
+            "capex cut"
+          ],
+          "matched_watch": [],
+          "matched_counter": [],
+          "signal_score": 2.0
+        },
+        {
+          "title": "Microsoft adjusts capex outlook due to accounting change, not a spending slowdown - Crypto Briefing",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40WTloSGZrenczZ1NGM0tKaHF1OFVtbUhKLV9MZG83RDFKc2t1bHo1OExZOVdtcVBXUEZpTGR6TlVJallRZlExQUlXQzg4b1hzbmJidWR5Z2lCS3NQVHBndkVKdjk2bXJVNkNabXJiX09QNzlYSGZ2TDNBeWR5UQ?oc=5",
+          "description": "Microsoft adjusts capex outlook due to accounting change, not a spending slowdown Crypto Briefing",
+          "published": "2026-08-10T07:00:00+00:00",
+          "matched_trigger": [
+            "spending slowdown"
+          ],
+          "matched_watch": [],
+          "matched_counter": [],
+          "signal_score": 2.0
+        }
+      ],
+      "counter_evidence": [
+        {
+          "title": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVBQQnREaHBhVnByYVlfMGZjWVFzOG1TMnFiT0V4cEpObHFId0s0UHdLdV9UMzVVUnowdG5XcU90cUFLdFBTN08xZUtMcHZNcDJvZjllMVFfemdxQlN3eGlBRVZ0eFZieS1Ka3VVTkhYY3o4ZndEM2JvQjZZYjEwM2VHSGRMUUFqTHZKQ045SjJ1cGNNdE9oZHlReFZQajl0MnkyMUVGOF9JVWN4SzdKMVdjQldabVpFLXJmQktwb1I0Z1dKUC16VUNqcw?oc=5",
+          "description": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again TradingKey",
+          "published": "2026-07-30T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "capex raised"
+          ],
+          "signal_score": -1.0
+        }
+      ],
+      "items_scanned": 59
     },
     {
       "id": "ai_server_forecast_down",
@@ -69,7 +107,7 @@
           "signal_score": -2.0
         }
       ],
-      "items_scanned": 40
+      "items_scanned": 38
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -80,7 +118,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 3
+      "items_scanned": 6
     },
     {
       "id": "nand_oversupply_price_down",
@@ -119,7 +157,7 @@
           "title": "Reported 45% AI Server Price Hike on Signed Deals - shattered.io",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONG5ackxPLXRpT1lQZVZPbGljaW96enJKcEMycVNQZlRJTHFuQktyTWNPWV9BeFZobXcxdXJHSEJTSk9RUW1ybEJ2eU5ZRk1UckpZSG1SVzN5aF9GTE4zNlZqR01OQmdYeERHRnU3NmxvWThtYzE2eXRzVGVxb0h1alZrdlJUamI4RklGa1ltR3VudTE3bTZjRi15SW5ad0lTVXc?oc=5",
           "description": "Reported 45% AI Server Price Hike on Signed Deals shattered.io",
-          "published": "2026-11-24T02:12:19+00:00",
+          "published": "2026-11-24T02:21:18+00:00",
           "matched_trigger": [],
           "matched_watch": [],
           "matched_counter": [
@@ -140,7 +178,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 39
+      "items_scanned": 56
     },
     {
       "id": "dram_fab_output_earlier",
