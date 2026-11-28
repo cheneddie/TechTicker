@@ -1,6 +1,6 @@
 # TechTicker｜硬體價格週期監控
 
-> 最後更新：**2026-11-27**
+> 最後更新：**2026-11-28**
 
 ## Downturn Readiness：**15.0/100**
 
@@ -13,7 +13,7 @@
 | 事件 | 狀態 | 權重 | 最近證據 |
 |---|---:|---:|---|
 | 四大 CSP 下修 AI／資料中心 CapEx 指引 | ⚪ UNKNOWN | 20% | — |
-| AI Server 出貨預測首次明顯下修 | 🟢 CLEAR | 15% | [Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbTNIMXR6STBhZFlLX2EtYUhGWW5DdU9LOXFQWlhFVlVxOU0zZzJuOTZaRDRUbkhIMC10UkFxY1Q2RXU0QzNHQ3ZvSW1hczlFTGJfVF96SU9KdXd0MF9ERG9mZ01mSU5UTUdLcS1OQzE?oc=5) |
+| AI Server 出貨預測首次明顯下修 | 🟢 CLEAR | 15% | [HBM Supply Constraints Persist, 2027 Price Outlook Revised Upward with Blended ASP Forecast to Rise 121% YoY, Says TrendForce - TrendForce](https://news.google.com/rss/articles/CBMicEFVX3lxTE1NWnFzWXRpRkFBX0g3SV9NYzduSmtoMWx3Tk9CaXVGLUpfVHNhUkRJeWJFdFBHUVdmYkxoemtCaVRlQVNsM0g2UUxGUnJGaXVBZS04OWctVGlXZ016WTQzTUlsRy10eXFESlBuYlVHNjU?oc=5) |
 | CSP Server DRAM 庫存持續累積 | ⚪ UNKNOWN | 15% | — |
 | NAND 供需轉正／合約價 QoQ 轉跌 | ⚪ UNKNOWN | 20% | — |
 | Samsung／SK hynix／Micron 從配額轉向降價搶單 | 🟠 WATCH | 15% | [CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report - Wccftech](https://news.google.com/rss/articles/CBMixgFBVV95cUxQWExUcjRFckphNERJYVdNdEdfWThrWWtKUFVpdll0Y1RRVVVwSlN6WEpOT0xNb2pQdE9fdHpSbTd4am52NEFyTzVObEZZUWh3emJDWGZDblkwWEpGVlhCLWgtX3ZaakxfVS1kMjFvcThNRUZGZG1kUmJyeVJERFNLTXZaMzgzbWZUdExNeXVnWWdLeVlhcmxORktnTXl4M0J5MzJiU1NObVVtOWRZTGdNQVVwYVhOazBRenBzdml2OFhQU1lpckHSAcsBQVVfeXFMUHAtMC1LdjloWjBiV2p0b2VGeXFCck1NdnlTTEZZZjlLNUNRNk9MQzhaM2dSaDZSSl9TaWlMcklxSkZYS1VMR01USGplWEpOYmdlVHlmQi04b1FVQWNvcEZKM2dtNmg3MlZrLXZtOVBhalV5YjVQZmFVYWRBU0I5RHd6TVZMSUZuXzVwYVNxLTNCdFpUTkFUWVJhbjlabVFyLVZvbk5GZEVQbDZuNnlEYlVQa2NscW5MY096aHdiYkYxSjZueFNCTGNfd28?oc=5) |

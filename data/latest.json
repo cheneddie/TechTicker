@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-11-27",
+  "as_of": "2026-11-28",
   "scores": {
     "downturn_readiness": 15.0,
     "phase": "主升／供給吃緊",
@@ -18,7 +18,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 48
+      "items_scanned": 47
     },
     {
       "id": "ai_server_forecast_down",
@@ -29,6 +29,18 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [
+        {
+          "title": "HBM Supply Constraints Persist, 2027 Price Outlook Revised Upward with Blended ASP Forecast to Rise 121% YoY, Says TrendForce - TrendForce",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NWnFzWXRpRkFBX0g3SV9NYzduSmtoMWx3Tk9CaXVGLUpfVHNhUkRJeWJFdFBHUVdmYkxoemtCaVRlQVNsM0g2UUxGUnJGaXVBZS04OWctVGlXZ016WTQzTUlsRy10eXFESlBuYlVHNjU?oc=5",
+          "description": "HBM Supply Constraints Persist, 2027 Price Outlook Revised Upward with Blended ASP Forecast to Rise 121% YoY, Says TrendForce TrendForce",
+          "published": "2026-09-29T07:00:00+00:00",
+          "matched_trigger": [],
+          "matched_watch": [],
+          "matched_counter": [
+            "revised upward"
+          ],
+          "signal_score": -1.0
+        },
         {
           "title": "Early Purchases Lift 2026 Smartphone Production Above Expectations; Full-Year Forecast Raised to 1.07 Billion Units, Says TrendForce - TrendForce",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbTNIMXR6STBhZFlLX2EtYUhGWW5DdU9LOXFQWlhFVlVxOU0zZzJuOTZaRDRUbkhIMC10UkFxY1Q2RXU0QzNHQ3ZvSW1hczlFTGJfVF96SU9KdXd0MF9ERG9mZ01mSU5UTUdLcS1OQzE?oc=5",
@@ -54,22 +66,9 @@
             "raised to"
           ],
           "signal_score": -2.0
-        },
-        {
-          "title": "TrendForce Consulting: CSP capital expenditures are projected to increase by 90% year-over-year this year; the forecast for AI server shipment growth in 2026 has been revised upward to nearly 31%. - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVU9BV2dtSGJlZXpCTkxHb19hQjdfR3c3b0pOazlhUUZhYy1fSlNYREZ5WGd1RFpiaDBRcWZPN0dfaVlMU0VLLUtPdzBtLV9QUlg5OHo1ZlVvOGk1RmI4aU5kUUlEM0tkaktaLXpOTUZjaWQzdmU1RndicXBFYWY0SDF3UjBJMG5wRFpfUGhCcGxuRDdnZGVFSXVPY1JPNE1PQzlpRjFUVlBuVldINmxGUGQzMHAtSXVz?oc=5",
-          "description": "TrendForce Consulting: CSP capital expenditures are projected to increase by 90% year-over-year this year; the forecast for AI server shipment growth in 2026 has been revised upward to nearly 31%. Moomoo",
-          "published": "2026-08-02T07:00:00+00:00",
-          "matched_trigger": [],
-          "matched_watch": [],
-          "matched_counter": [
-            "revised upward",
-            "shipment growth"
-          ],
-          "signal_score": -2.0
         }
       ],
-      "items_scanned": 39
+      "items_scanned": 41
     },
     {
       "id": "csp_dram_inventory_buildup",
@@ -91,7 +90,7 @@
       "signal_score": 0.0,
       "evidence": [],
       "counter_evidence": [],
-      "items_scanned": 8
+      "items_scanned": 7
     },
     {
       "id": "memory_vendor_discounting",
@@ -99,7 +98,7 @@
       "weight": 15,
       "state": "WATCH",
       "multiplier": 0.5,
-      "signal_score": 4.0,
+      "signal_score": 2.0,
       "evidence": [
         {
           "title": "CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report - Wccftech",
@@ -112,38 +111,14 @@
           "matched_watch": [],
           "matched_counter": [],
           "signal_score": 2.0
-        },
-        {
-          "title": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power - eu.36kr.com",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeXpyT20wN1RJUjh3RE5NMEttX1Z5bUNIQlpaT2FTNnY5ek9udGhDdThyOTFnVnRrQThVa1VQYXI1NFNoN1pTY2JHZTE2N1dhZllN?oc=5",
-          "description": "Changxin Rejects Apple's Price Cut Demand: Sets Prices No Lower Than Samsung & SK Hynix, Eliminating Apple's Bargaining Power eu.36kr.com",
-          "published": "2026-08-05T07:00:00+00:00",
-          "matched_trigger": [
-            "price cut"
-          ],
-          "matched_watch": [],
-          "matched_counter": [],
-          "signal_score": 2.0
         }
       ],
       "counter_evidence": [
         {
-          "title": "Fresh Round of Memory Price Hikes Brewing as Enterprise-Grade Chip Channel Quotes Climb 'Day by Day' - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoNGdYQ3dzWTFLd1NkcEVrMlU2VTVHUVM2c042Z2xUTl94ZXVqQ3dJYmRXOS1wT0l1dURWaVNPSEJlX0xJcDlRZE9tUlJDc2RibEZ0R1Zpa3Njdnc0MkhkYjJnSGNWY1h4eExfeTM0dzhaZzc2dVE?oc=5",
-          "description": "Fresh Round of Memory Price Hikes Brewing as Enterprise-Grade Chip Channel Quotes Climb 'Day by Day' BigGo Finance",
-          "published": "2026-11-10T08:00:00+00:00",
-          "matched_trigger": [],
-          "matched_watch": [],
-          "matched_counter": [
-            "price hike"
-          ],
-          "signal_score": -1.0
-        },
-        {
-          "title": "HBM spot prices soar to five times long-term contract levels: HBM4 yield pressures and long-term contract capacity allocations squeeze spot supply - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWV8xWEItUWV3VHFQTVB1aFFaS1FqWjNMeEhRZXF4WTZrX1VzQTFhOFpldDFGVWVhdzNBTWhDcjZyenYwTExiS1hFdGhQWnhzTzZzclZHUFJEb19HSmJJWU1IQnJpTUx4VzFuQ2l4VmdlYUhacVVseEw2c3hCWlVjUmF5QlBTLUxnNmpGcFlWWi1oZU1ac1JCQ19Taw?oc=5",
-          "description": "HBM spot prices soar to five times long-term contract levels: HBM4 yield pressures and long-term contract capacity allocations squeeze spot supply Moomoo",
-          "published": "2026-08-31T07:00:00+00:00",
+          "title": "PC DRAM Rise Slows to 13-18%; Power Chips on Allocation - shattered.io",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGNKR190UDlwOXVYWW9yU1JPa0FwZlJjbVd1cFlTT19vbEhwa3FNUndrbWx4b1Q4SXVVd2NjdXVOc2RyMzU4TXEzMzFrNXRyUHNKb1FRYVpXclNoNXF6Ny1QX1dfamhha051M0Nya0hwaXhqbEpGdXFMaFRTekYwaFVaMkpSbi1WTW1xMG5sYVM1YnpJeGNUbjRHOVBLX0U?oc=5",
+          "description": "PC DRAM Rise Slows to 13-18%; Power Chips on Allocation shattered.io",
+          "published": "2026-11-22T16:28:29+00:00",
           "matched_trigger": [],
           "matched_watch": [],
           "matched_counter": [
@@ -152,7 +127,7 @@
           "signal_score": -1.0
         }
       ],
-      "items_scanned": 40
+      "items_scanned": 56
     },
     {
       "id": "dram_fab_output_earlier",
